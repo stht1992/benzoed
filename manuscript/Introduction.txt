@@ -1,6 +1,10 @@
-# Introduction
+{frontmatter}
+
+-# Introduction
 
 w> ## Warning!
+w>
+w> Trigger Alert!
 
 Contained within this publication is **graphic discussion about suicide, death and malpractice**. If you are emotionally vulnerable, you are **discouraged from proceeding further**.
 
@@ -14,9 +18,12 @@ Of the entire pharmacopoeia, there is one substance that may be the most damagin
 We must all be aware! UCC counsellors do make doctor referrals but will not tell you anything about pharmacology. As such, you may not be equipped with the necessary information to understand the true risk benefit profile. Ignorance as to the qualities of the drug may expose you to psychiatric drug withdrawal that resembles underlying disorders. 
 
 This includes:
-* **National University of Singapore (NUS):** University Counselling Services (UCS)
-* **Nanyang Technological University (NTU):** University Wellbeing Centre (UWC)
-* **Singapore Management University (SMU):** Mrs Wong Kwok Leong Student Wellness Centre (MWKLSWC)
+* National University of Singapore (NUS)
+: The University Counselling Services (UCS) located at the University Health Centre (UHC) building, second floor, and the Clinical and Health Psychology Centre (CHPC), located at the UHC building, basement, and Yale_NUS's Wellness Centre
+* Nanyang Technological University (NTU)
+: The University Wellbeing Centre (UWC) located at the University Health Service (UHS) building, second level, adjacent to the medical clinic
+* Singapore Management University (SMU)
+: Mrs Wong Kwok Leong Student Wellness Centre (MWKLSWC), located at the basement of Li Ka Shing Library at the foot of the steps of the T-Junction
 
 Lives are being lost and harmed by this particular drug and others due to ignorance of its judicious usage. As users, we do not know, and sometimes, doctors are not adequately equipped, wilfully suppress or fail to imbue you with that information. These drugs are highly risky and potentially deadly. Information asymmetry exists in a hotbed of potential lemons.
 
