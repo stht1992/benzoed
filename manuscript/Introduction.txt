@@ -1,8 +1,4 @@
-{frontmatter}
-
--# Introduction
-
-# The Hook & Reel strategy
+-# The Hook & Reel strategy
 
 ![Figure 1: The Hook & Reel Strategy outlined](images/1.Hook&Reel.png)
 
