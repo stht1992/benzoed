@@ -1,6 +1,6 @@
 {frontmatter}
 
--# Introduction
+-# Foreword
 
 w> ## Warning!
 w>
