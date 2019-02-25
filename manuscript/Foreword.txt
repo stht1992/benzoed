@@ -2,9 +2,9 @@
 
 -# Foreword
 
-# Warning!
-
-:warning: Trigger Alert!
+W> # Warning!
+W>
+W> Trigger Alert!
 
 Contained within this publication is **graphic discussion about suicide, death and malpractice**. If you are emotionally vulnerable, you are **discouraged from proceeding further**.
 
@@ -38,7 +38,9 @@ Doctors and psychiatrists across the world are blind to this because they **only
 
 If you have been pushed drugs by these centres or know of unrecorded student suicides, please inform the author on telegram [@benzovictim](https://t.me/benzovictim).
 
-# Clarifications & disclaimers: To avert unnecessary criticism and strawman arguments that will slow progress
+# Clarifications & disclaimers
+
+## To avert unnecessary criticism and strawman arguments that will slow progress
 
 The author has received numerous criticisms that unnecessarily avert proper discussion into the real problems at hand and will result in unnecessarily repetition:
 
