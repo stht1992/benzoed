@@ -10,25 +10,28 @@
 
 **Stage 2.** In reality, the field of psychology has been hijacked by pharmaceutical companies to prop up the mental health pharmaceutical supply chain. Research for psychology is readily financed by deep-pocketed pharmaceutical corporations as they are the referral agents to psychiatrists and doctors. For all three universities, this referral policy to psychiatrists and general practitioners is quite literally written in policy. Whether or not the doctor is out-sourced or internal differs between the big three autonomous universities in Singapore.
 
-**Stage 3*.* Abnormal psychology, or psychiatry, is a medical field that emerged from the mental asylum keepers of yore. It was with the discovery of anti-psychotic chlorpromazine in 1952, that sparked a medical revolution for the treatment of the insane. Finally, it seemed, there was hope for the mentally ill, and quickly, a series of new medical compounds were invented. 
+**Stage 3.** Abnormal psychology, or psychiatry, is a medical field that emerged from the mental asylum keepers of yore. It was with the discovery of anti-psychotic chlorpromazine in 1952, that sparked a medical revolution for the treatment of the insane. Finally, it seemed, there was hope for the mentally ill, and quickly, a series of new medical compounds were invented. 
 
 These compounds can be broadly broken into four categories:  
 1. Anti-psychotics: for the treatment of psychosis, such as schizophrenia and delusional disorders, the group that were traditionally referred to as the "insane".
+
 2. Anti-depressants: for the treatment of depression, typically associated with suicide cases and the lows of maniac bipolar disorder
+
 3. Anxiolytics or anti-anxiety agents: for the treatment of anxiety "disorders", such as panic disorder
+
 4. Mood-stabilisers: for the treatment of bipolar disorders, of which some of the notable agents are also anti-psychotics
 
-The medicalisation of the care of the mentally ill in 1952 sparked a renaissance of sorts as the chaotic state of abnormal psychology and psychoanalyses prior to that period demanded a new form of taxonomic classification. It was that year that the American Psychiatric Association (APA), developed the Diagnostic and Statistical Manual of Mental Disorders (DSM), which has been the bible for the global mental health industry ever since. The unfortunate truth, that still holds till today, is that the DSM played and still plays no regard for the etiology of mental illnesses[^I1](#I1). Even to the present date, psychiatrists have produce no quantitative evidence before dishing out a diagnosis, unlike other medical professions. The perverse incentive for psychiatry, then, is to diagnose as much and as often as possible, with the unabashed support of the profiteering pharmaceutical industry. Psychiatric diagnoses have now become highly commercially influenced, with the number of diseases rising from 128 in DSM-I (1952) to 541 in DSM-V (2013). Correspondingly, the revenue of the APA Inc. has risen from US$1.27 million (1968) to US$135.23 million (2013)[^I2],[^I3](#I2)(#I3).
+The medicalisation of the care of the mentally ill in 1952 sparked a renaissance of sorts as the chaotic state of abnormal psychology and psychoanalyses prior to that period demanded a new form of taxonomic classification. It was that year that the American Psychiatric Association (APA), developed the Diagnostic and Statistical Manual of Mental Disorders (DSM), which has been the bible for the global mental health industry ever since. The unfortunate truth, that still holds till today, is that the DSM played and still plays no regard for the etiology of mental illnesses[^I1](#I1). Even to the present date, psychiatrists have produce no quantitative evidence before dishing out a diagnosis, unlike other medical professions. The perverse incentive for psychiatry, then, is to diagnose as much and as often as possible, with the unabashed support of the profiteering pharmaceutical industry. Psychiatric diagnoses have now become highly commercially influenced, with the number of diseases rising from 128 in DSM-I (1952) to 541 in DSM-V (2013). Correspondingly, the revenue of the APA Inc. has risen from US$1.27 million (1968) to US$135.23 million (2013)[^I2]^,^[^I3].
 
 But worse, these drugs cause dependence and addiction. Once dependence sets in, the patient or victim, whether actually mentally ill or correctly diagnosed, experiences psychiatric drug withdrawal, which involves severe illness, both physical and mental. The psychiatric profession, unsurprisingly, has been mulish in the recognition, both in research and clinic setting, to recognise these effects. The result is an astounding cycle of iatrogenesis and **POLYDRUGGING**, sometimes under forced treatment, often resulting in **SUICIDE**. 
 
 {#I1}
-[^I1]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014). The Cycle of Classification: DSM-I Through DSM-5. *Annual Review of Clinical Psychology*, 10(1), 25-51. DOI: 25-51.10.1146/annurev-clinpsy-032813-153639. Retrieved from [http://apsychoserver.psych.arizona.edu/JJBAReprints/PSYC621/Blashfield_etal_2014_ARCP.pdf](http://apsychoserver.psych.arizona.edu/JJBAReprints/PSYC621/Blashfield_etal_2014_ARCP.pdf)
+[^I1]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014). The Cycle of Classification: DSM-I Through DSM-5. *Annual Review of Clinical Psychology*, 10(1), 25-51. DOI: 25-51.10.1146/annurev-clinpsy-032813-153639. Retrieved from [http://apsychoserver.psych.arizona.edu/JJBAReprints/PSYC621/Blashfield_etal_2014_ARCP.pdf](http://apsychoserver.psych.arizona.edu/JJBAReprints/PSYC621/Blashfield_etal_2014_ARCP.pdf).
 
 {#I2}
 [^I2]: Ibid.
 
 {#I3}
-[^I3]: American Psychiatric Association. (2016). Return of Organization Exempt from Income Tax (PDF). *Guidestar*. Retrieved from [https://pdf.guidestar.org/PDF_Images/2016/522/168/2016-522168499-0e8166c0-9O.pdf](https://pdf.guidestar.org/PDF_Images/2016/522/168/2016-522168499-0e8166c0-9O.pdf)
+[^I3]: American Psychiatric Association. (2016). Return of Organization Exempt from Income Tax (PDF). *Guidestar*. Retrieved from [https://pdf.guidestar.org/PDF_Images/2016/522/168/2016-522168499-0e8166c0-9O.pdf](https://pdf.guidestar.org/PDF_Images/2016/522/168/2016-522168499-0e8166c0-9O.pdf).
 
 
