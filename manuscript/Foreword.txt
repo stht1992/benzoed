@@ -2,8 +2,12 @@
 
 -# Foreword
 
+# Warning!
+
 w> ## Warning!
+
 w>
+
 w> Trigger Alert!
 
 Contained within this publication is **graphic discussion about suicide, death and malpractice**. If you are emotionally vulnerable, you are **discouraged from proceeding further**.
@@ -20,8 +24,10 @@ We must all be aware! UCC counsellors do make doctor referrals but will not tell
 This includes:
 * National University of Singapore (NUS)
 : The University Counselling Services (UCS) located at the University Health Centre (UHC) building, second floor, and the Clinical and Health Psychology Centre (CHPC), located at the UHC building, basement, and Yale_NUS's Wellness Centre
+
 * Nanyang Technological University (NTU)
 : The University Wellbeing Centre (UWC) located at the University Health Service (UHS) building, second level, adjacent to the medical clinic
+
 * Singapore Management University (SMU)
 : Mrs Wong Kwok Leong Student Wellness Centre (MWKLSWC), located at the basement of Li Ka Shing Library at the foot of the steps of the T-Junction
 
