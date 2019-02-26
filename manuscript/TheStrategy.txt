@@ -119,16 +119,23 @@ The wellness centre has an advisory board, of which is known to be occupied by t
 Enshrined in school policy is doctor referral programme, where the website states[^10]:
 >
 > "External mental health agencies may be recommended for longer-term follow-up and treatment. All referrals are made with students' explicit agrement." 
-> - SMU Website
+> - *SMU website*
 >
-> "The Centre may also refer client to the General Practitioner (medical attention) on campus in cases which require medical attention" > - Oasis, the internal student platform  
+> "The Centre may also refer client to the General Practitioner (medical attention) on campus in cases which require medical attention" 
+> - *Oasis, the internal student platform*
 >
 
-The adjacent GP clinic *The Clinic @ Campus* is the GP referred in the school policy, currently staffed by Dr Mervin Lim Lok Houw. It is also known that there is a list of psychiatrists written into school policy for which a number of students have been referred to for anti-depressants and benzodiazepines to be issued, of which three can be directly traces to Dr Ada Chung. As such, it is apparent that Prof Chong's involvement with MWKLSWC has more than just meets the eye.
+The adjacent private GP clinic *The Clinic @ Campus* is the GP referred in the school policy, currently staffed by Dr Mervin Lim Lok Houw. It is also known that there is a list of psychiatrists written into school policy for which a number of students have been referred to for anti-depressants and benzodiazepines to be issued, of which three can be directly traces to Dr Ada Chung. As such, it is apparent that Prof Chong's involvement with MWKLSWC has more than just meets the eye.
 
 ## NUS: the grandfather university
 
-NUS has its roots even before the founding of Singapore and has a shared origins with the current University of Malaya in Kuala Lumpur. It has a sprawling campus across much of Clementi and Bukit Timah. Mental health services are administered from the University Health Centre (UHC) at 20 Lower Kent Ridge Road. Tucked away on the second floor of the building after walking up a discreet stairwell is a lounge and a corridor of many closed-doored counselling rooms.
+{title="Figure 6: UCS"}
+![Figure 3: UCS](images/6.UCS.png)
+
+NUS has its roots even before the founding of Singapore and has a shared origins with the current University of Malaya in Kuala Lumpur. It has a sprawling campus across much of Clementi and Bukit Timah. Mental health services are administered from the University Health Centre (UHC) at 20 Lower Kent Ridge Road. Tucked away on the second floor of the building after walking up a discreet stairwell is a lounge and a corridor of many closed-doored counselling rooms, the compounds of NUS's UCS. At the ground floor of the UHC is the clinic, consisting of over 10 doctors, all of which are employees of NUS, serving the large student population. At the basement is the Clinical and Health Psychology Centre (CHPC) run by the NUS Department of Psychology[^I11] that provides professional psychology help and assessment before allowing psychiatric intervention. There are approximately 2 or 3 psychiatrists at any one point of which one is Dr Clarice Hong Pei Hsia as of academic year 2018/19 term 1. Yale-NUS has its own Wellness Centre that is in some way affiliated to UCS.
+
+
+
 
 
 {#I7}
@@ -144,7 +151,8 @@ NUS has its roots even before the founding of Singapore and has a shared origins
 {#I10}
 [^I10]: Singapore Management University. (2019), op. cit.
 
-
+{#I11}
+[^I11] National University of Singapore. (n.d.). *NUS Department of Psychology - Clinical and Health Psychology Centre*. Retrieved February 4, 2019 from [https://www.fas.nus.edu.sg/psy/chpc.html](https://www.fas.nus.edu.sg/psy/chpc.html).
 
 
 
