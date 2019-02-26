@@ -78,12 +78,38 @@ It is mentioned that the system works on key marketing messages earlier on, that
 
 The phenomenon of marketing is by no means a unique phenomenon to Singapore or to the universities in Singapore as seen in [figure 3](#fig3); It is a global trend spearheaded by the WHO's mental health teams staffed almost entirely of psychiatrists. There are a few flavours that global mental health campaigns come in and the list below is most certainly not exhaustive:
 
-* **Mental health awareness:** A rather iffy term, the message is by far the least well defined but generally paints the idea that mental illness is common and establishes suicide as being rooted in a mental illness, while painting mental health campaigns in a positive light. Some subsidiary campaigns that buttress into these awareness campaigns included "Mindfulness", a psychological technique to pay attention to the now without judgement in an effort to reduce rumination, improve attentional control, emotional regulation and self-awareness, thereby, purportedly, enhancing physical health[^I7].
+* **Mental health awareness:** A rather iffy term, the message is by far the least well defined but generally paints the idea that mental illness is common and establishes suicide as being rooted in a mental illness, while painting mental health campaigns in a positive light. Some subsidiary campaigns that buttress into these awareness campaigns included "Mindfulness", a psychological technique to pay attention to the now without judgement in an effort to reduce rumination, improve attentional control, emotional regulation and self-awareness, thereby, purportedly, enhancing physical health[^I7]. An example of this is WHO's World Mental Health Day and the Mental Health Awareness Singapore campaign by SAMH, a psychiatry-affiliated advocacy non-profit organisation.
 
-* **Suicide prevention:** Having established mental illness as the root of psychological distress and suicide, the idea then is that psychiatry, though sometimes not explicitly mentioned, prevents suicide and that "early treatment should be an order". Together with this concept is the blaming of the media for inspiring copycat suicide under research about the "Werther Effect", coined by Phillipi
+* **Suicide prevention:** Having established mental illness as the root of psychological distress and suicide, the idea then is that psychiatry, though sometimes not explicitly mentioned, prevents suicide and that "early treatment" should be an order. Together with this concept is the blaming of the media for inspiring copycat suicide under research about the "Werther Effect", coined by David Phillips in 1974, for which we discuss in detail later.
+
+* **Destigmatisation:** The history of psychiatry has traditionally associated with the insane, criminal and generally societally mal-adjusted. It also has been associated with suicide in the universities, of course we now know that it is likely associated with the drugs, even if spontaneous suicide do exist. The aim is to normalise "seeking help" by reducing the stigma, inadvertently boosting the business of the ecosystem of the mental health fraternity.
+
+* **Wellness:" The connection between counselling and psychiatry is very much hidden, but there has been a transfer of techniques from the counselling profession to psychiatry in the usage of "wellness". The counselling profession, in that sense, markets psychiatry on behalf of psychiatrists and doctors by preaching Mindfulness and Peer Helping in schools. An example of this is MWKLSWC's peer helping programme.
+
+### Case study: Mrs Wong Kwok Leong Student Wellness Centre (MWKLSWC)
+
+Let us look into the function of MWKLSWC of SMU[^I9]. Counselling, still remains very much a brick & mortar trade.
+
+* **Operations.** Its operations at the basement of SMU's Li Ka Shing Library consists of two compounds. Firstly, *The Counselling Place*, a multi-chambered room where counsellors ply their trade of talk therapy and drug referral. And secondly, *The Cosy Haven*, a very plush student lounge and headquarters of the SMU Peer Helpers, the student mental health advocacy group, deck with comfortable counches, massage chairs and bean bags.
+
+* **Key opinion leaders.** Within the school, the SMU Peer Helpers, a student run and led, but counsellor supervised, student organisation acts as a powerful student influence network and community of opinion leaders that carry out the student initiated mental health advocacy activities for free. A force for good in general as research has found that their workshops have enhanced student's personal development on many fronts[^I9].
+
+* **Marketing.** The centre is also the force behind the regular Mindfulness talks and conferences, and various marketing campaigns engaged both digitally, through social media, web and internal mail, and physically, through posters, standees and other marketing collateral.
+
+In all of these cases, the association with psychiatry is not mentioned, as in fact, Professor Chong Siow Ann, the most influential psychiatrist in Singapore, is advisor to the centre, and the counsellors regularly referred students for psychiatriac evaluation and/or psychiatric prescription from the adjacent GP. The system draws in students and turn them into defenders of "mental health", and by extension, the drugs, while creating an enormous and ignorant ready market unaware of the true nature of the products that are really being sold.
+
+
 
 {#I7}
 [^I7] Baer, R. A. (2003). Mindfulness Training as a Clinical Intervention: A Conceptual and Empirical Review. *Clinical Psychology: Science and Practice*, 10(2), 125-143. DOI: 10.1093/clipsy/bpg015. Retrieved February 26, 2019 from [http://www.wisebrain.org/papers/MindfulnessPsyTx.pdf](http://www.wisebrain.org/papers/MindfulnessPsyTx.pdf).
+
+{#I8}
+[^I8] Singapore Management University. (2019). *Wellness Centre Services*. Retrieved January 30, 2019, from
+[https://www.smu.edu.sg/campus-life/student-wellness/wellness-centre-services](https://www.smu.edu.sg/campus-life/student-wellness/wellness-centre-services).
+
+{#I9}
+[^I9] Tan, Y. W. G., & Hsi, T. (2007). The Impact of Peer-Helper Program on Peer Helpers: Some Preliminary Findings. *8th International Conference on Human Resource Development Research and Practice across Europe*, Oxford, 27-29 June 2007. 1-18. Research Collection Lee Kong Chian School Of Business. Retrieved from [https://ink.library.smu.edu.sg/lkcsb_research/2850](https://ink.library.smu.edu.sg/lkcsb_research/2850).
+
 
 
 
