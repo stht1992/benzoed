@@ -1,5 +1,5 @@
 Foreword.txt
-Introduction.txt
+TheStrategy.txt
 Academic.txt
 ExaminationDocs.txt
 chapter1.txt
