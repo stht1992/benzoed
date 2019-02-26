@@ -106,7 +106,7 @@ In all of these cases, the association with psychiatry is not mentioned, as in f
 SMU, mooted by Dr Tony Tan (now President of Singapore), was founded in 2000 as Singapore's first American-style university broadly modelled after the Wharton School - University of Pennsylvania as conceived by Professor Tan Chin Tiong. It is currently located in the middle of the city, along the historic Fort Canning Hill that became the talk of the British Empire during the 1942 Battle of Singapore. Although new in many ways, its internal policies and academics were largely copied and ported over from NUS and NTU. As such, the system is vaguely similar in all three universities.
 
 {title="Figure 5"}
-![Figure 5: MWKLSWC governance structure](images/5.MWKLSWC.png)
+![Figure 5: MWKLSWC's governance structure](images/5.MWKLSWC.png)
 
 MWKLSWC lies under the purview of the Office of Dean of Students, which, at the point of the writing of this publication, is occupied by ex-NMP (Nominated Member of Parliament) and prominent sociologist Professor Paulin Tay Straughan and direct supervisor of Dr Ada Chung Yee Lin, the head of the centre who oversees four other counsellors under her.
 
@@ -130,9 +130,29 @@ The adjacent private GP clinic *The Clinic @ Campus* is the GP referred in the s
 ## NUS: the grandfather university
 
 {title="Figure 6: UCS"}
-![Figure 3: UCS](images/6.UCS.png)
+![Figure 6: UCS](images/6.UCS.png)
 
-NUS has its roots even before the founding of Singapore and has a shared origins with the current University of Malaya in Kuala Lumpur. It has a sprawling campus across much of Clementi and Bukit Timah. Mental health services are administered from the University Health Centre (UHC) at 20 Lower Kent Ridge Road. Tucked away on the second floor of the building after walking up a discreet stairwell is a lounge and a corridor of many closed-doored counselling rooms, the compounds of NUS's UCS. At the ground floor of the UHC is the clinic, consisting of over 10 doctors, all of which are employees of NUS, serving the large student population. At the basement is the Clinical and Health Psychology Centre (CHPC) run by the NUS Department of Psychology[^I11] that provides professional psychology help and assessment before allowing psychiatric intervention. There are approximately 2 or 3 psychiatrists at any one point of which one is Dr Clarice Hong Pei Hsia as of academic year 2018/19 term 1. Yale-NUS has its own Wellness Centre that is in some way affiliated to UCS.
+NUS has its roots even before the founding of Singapore and has a shared origins with the current University of Malaya in Kuala Lumpur through the original King Edward VII Medical School. It has a sprawling campus across much of Clementi and Bukit Timah. Mental health services are administered from the University Health Centre (UHC) at 20 Lower Kent Ridge Road. Tucked away on the second floor of the building after walking up a discreet stairwell is a lounge and a corridor of many closed-doored counselling rooms, the compounds of NUS's UCS. At the ground floor of the UHC is the clinic, consisting of over 10 doctors, all of which are employees of NUS, serving the large student population. At the basement is the Clinical and Health Psychology Centre (CHPC) run by the NUS Department of Psychology[^I11] that provides professional psychology help and assessment before allowing psychiatric intervention. There are approximately 2 or 3 psychiatrists at any one point of which one is Dr Clarice Hong Pei Hsia as of academic year 2018/19 term 1, according to ground research. Yale-NUS has its own Wellness Centre that is in some way affiliated to UCS. Also at the basement of UHC is the aptly named Wellness Office administering the system.
+
+{title="Figure 7: UCS"}
+![Figure 7: UCS's governance structure](images/7.UCS.png)
+
+UCS is held within the purview of the NUS adminstration, specifically under Professor Florence Ling Yean Yng's, Vice Provost (Student Life) and faculty member of NUS Department of Building, School of Design and Environment (SDE), portfolio. Directly managing UHC is the director of UHC and medicl doctor, Dr Patrick Tan. Counselling services at Yale-NUS is headed up by Mr Goh Zhengqin, of which there is a team of around 10 counsellors. CHPC's acting director, as of the writing of this publication is Associate Professor Iliana Magiati.
+
+All the three centres and the Wellness Centre of Yale-NUS cross-refer to each other to some extent and to the psychiatric services provided by the in-house psychiatrists. As stated on their website:
+
+>
+> "Psychiatric consultations are only made through referrals from a counselor at UCS or a medical doctor at the University Health Service (Clinic).
+> - *NUS website*
+>
+
+Should it be deemed necessary, students may be involuntarily pressured into NUH psychiatric Ward 33. NUH, National University Hospital, is the affiliated hospital to NUS's Yong Loo Lin School of Medicine (YLLSoM). It is recorded that some NUS students have been forced into the ward against their will after hitting the keywords "sad" or "depressed", but it is unknown to what extent this has been abused by counsellors in order to get students off their hands. It is also unknown whether UHC has an advisory board, much like what is set up in SMU and NTU.
+
+It is also reported that it is part of the school policy and the purview of the Dean of Student Life of each faculty to interview and then refer students to UCS in the event of a drastic drop in GPA or failure on the pretext of "concerned(sic) for... well-being".
+
+## NTU: the unusual alliance between psychiatry and sociology
+
+Located on the West region of Singapore, NTU was originally a Chinese University called Nanyang University. After a complicated merger and demerger with NUS, it was named NTU in 1991 and grew into a full fledged university, albeit with a strong focus on engineering. It also has its own Lee Kong Chian School of Medicine (LKCSoM) added in 2017.
 
 
 
