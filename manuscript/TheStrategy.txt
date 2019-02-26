@@ -1,5 +1,6 @@
 -# The Hook & Reel strategy
 
+{title = "Figure 1"}
 ![Figure 1: The Hook & Reel Strategy outlined](images/1.Hook&Reel.png)
 
 ## A summary
@@ -54,6 +55,14 @@ Putting aside whether or not this business strategy helps people, which is indee
 
 ## Wellness porn: the key marketing messages
 
-It is mentioned that the system works on key marketing messages earlier on, that we shall call, perjoratively, "wellness porn". What are some of the key messages that Big Pharma and the mental health professions wants the populace to believe?
+It is mentioned that the system works on key marketing messages earlier on, that we shall call, somewhat perjoratively, "wellness porn", for the concealment of information while using the "wellness term". What are some of the key messages that Big Pharma and the mental health professions wants the populace to believe?
+
+
+
+
+
+
+
+
 
 
