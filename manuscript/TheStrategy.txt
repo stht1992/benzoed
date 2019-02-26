@@ -102,6 +102,8 @@ In all of these cases, the association with psychiatry is not mentioned, as in f
 
 SMU, mooted by Dr Tony Tan (now President of Singapore), was founded in 2000 as Singapore's first American-style university broadly modelled after the Wharton School - University of Pennsylvania as conceived by Professor Tan Chin Tiong. Although new in many ways, its internal policies and academics were largely copied and ported over from NUS and NTU. As such, the system is vaguely similar in all three universities.
 
+{title="Figure 4"}
+![Figure 4: MWKLSWC structure    Note: x](images/4.MWKLSWC.png)
 
 
 {#I7}
