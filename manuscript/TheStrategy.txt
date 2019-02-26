@@ -73,7 +73,18 @@ It is mentioned that the system works on key marketing messages earlier on, that
 
 # Bait: How do UCCs invite to treat?
 
-The phenomenon of marketing by no means a unique phenomenon to Singapore or to the universities in Singapore; It is a global trend spearheaded by the WHO. There are a few flavours that
+{title="Figure 3: Campaign examples",id="fig3"}
+![Figure 3: Campaign examples](images/3.Campaigns.png)
+
+The phenomenon of marketing is by no means a unique phenomenon to Singapore or to the universities in Singapore as seen in [figure 3](#fig3); It is a global trend spearheaded by the WHO's mental health teams staffed almost entirely of psychiatrists. There are a few flavours that global mental health campaigns come in and the list below is most certainly not exhaustive:
+
+* **Mental health awareness:** A rather iffy term, the message is by far the least well defined but generally paints the idea that mental illness is common and establishes suicide as being rooted in a mental illness, while painting mental health campaigns in a positive light. Some subsidiary campaigns that buttress into these awareness campaigns included "Mindfulness", a psychological technique to pay attention to the now without judgement in an effort to reduce rumination, improve attentional control, emotional regulation and self-awareness, thereby, purportedly, enhancing physical health[^I7].
+
+* **Suicide prevention:** Having established mental illness as the root of psychological distress and suicide, the idea then is that psychiatry, though sometimes not explicitly mentioned, prevents suicide and that "early treatment should be an order". Together with this concept is the blaming of the media for inspiring copycat suicide under research about the "Werther Effect", coined by Phillipi
+
+{#I7}
+[^I7] Baer, R. A. (2003). Mindfulness Training as a Clinical Intervention: A Conceptual and Empirical Review. *Clinical Psychology: Science and Practice*, 10(2), 125-143. DOI: 10.1093/clipsy/bpg015. Retrieved February 26, 2019 from [http://www.wisebrain.org/papers/MindfulnessPsyTx.pdf](http://www.wisebrain.org/papers/MindfulnessPsyTx.pdf).
+
 
 
 
