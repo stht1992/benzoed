@@ -98,36 +98,37 @@ Let us look into the function of MWKLSWC of SMU[^I9]. Counselling, still remains
 
 In all of these cases, the association with psychiatry is not mentioned, as in fact, Professor Chong Siow Ann, the most influential psychiatrist in Singapore, is advisor to the centre, and the counsellors regularly refer students for psychiatriac evaluation and/or psychiatric prescription from the adjacent GP. The system draws in students and turn them into defenders of "mental health", and by extension, the drugs, while creating an enormous and ignorant ready market unaware of the true nature of the products that are really being sold.
 
-## SMU: a system grandfathered from NTU and NUS
+## SMU: Mrs Wong Kwok Leong Student Centre
 
 {title="Figure 4"}
 ![Figure 4: MWKLSWC](images/4.MWKLSWC.png)
 
-SMU, mooted by Dr Tony Tan (now President of Singapore), was founded in 2000 as Singapore's first American-style university broadly modelled after the Wharton School - University of Pennsylvania as conceived by Professor Tan Chin Tiong. It is currently located in the middle of the city, along the historic Fort Canning Hill that became the talk of the British Empire during the 1942 Battle of Singapore. Although new in many ways, its internal policies and academics were largely copied and ported over from NUS and NTU. As such, the system is vaguely similar in all three universities.
+SMU, mooted by Dr Tony Tan (now President of Singapore), was founded in 2000 as Singapore's first American-style university broadly modelled after the Wharton School - University of Pennsylvania as conceived by Professor Tan Chin Tiong. It is currently located in the middle of the city, along the historic Fort Canning Hill that became the talk of the British Empire during the 1942 Battle of Singapore. Although new in many ways, its internal policies and academics were largely grandfathered from NUS and NTU. As such, the system is vaguely similar in all three universities.
 
 {title="Figure 5"}
 ![Figure 5: MWKLSWC's governance structure](images/5.MWKLSWC.png)
 
-MWKLSWC lies under the purview of the Office of Dean of Students, which, at the point of the writing of this publication, is occupied by ex-NMP (Nominated Member of Parliament) and prominent sociologist Professor Paulin Tay Straughan and direct supervisor of Dr Ada Chung Yee Lin, the head of the centre who oversees four other counsellors under her.
+MWKLSWC lies under the purview of the Office of Dean of Students, which at the point of the writing of this publication is occupied by ex-NMP (Nominated Member of Parliament) and prominent sociologist Professor Paulin Tay Straughan, and direct supervisor of Dr Ada Chung Yee Lin, the head of the centre who oversees four other counsellors in the centre. It is named after a wealthy donor Mrs Wong Kwok Leong for her contribution of S$1.6 million to the school's endownment fund.
 
 The wellness centre has an advisory board, of which is known to be occupied by two members:
 
-* **Professor Chong Siow Ann:** prominent psychiatrist in Singapore and Vice-Chairman of Research at the Institute of Mental Health, Singapore's only psychiatric hospital and asylum. He is also the leading researcher within psychiatry in Singapore, having hundreds of research papers to his name.
+* **Professor Chong Siow Ann:** prominent psychiatrist in Singapore and Vice-Chairman of Research at the Institute of Mental Health (IMH), Singapore's only psychiatric hospital and asylum. He is also the leading researcher within psychiatry in Singapore, having hundreds of research papers to his name.
 
 * **Dr Frederick Low:** accomplished counsellor and vice-president of the Singapore Association for Counselling, currently working at the Children's Aid Society.
 
-Enshrined in school policy is doctor referral programme, where the website states[^10]:
+Enshrined in school policy is doctor referral programme, where the website states[^I10]:
+
 >
-> "External mental health agencies may be recommended for longer-term follow-up and treatment. All referrals are made with students' explicit agrement." 
+> *"External mental health agencies may be recommended for longer-term follow-up and treatment. All referrals are made with students' explicit agrement."*
 > - *SMU website*
 >
-> "The Centre may also refer client to the General Practitioner (medical attention) on campus in cases which require medical attention" 
+> *"The Centre may also refer client to the General Practitioner (medical attention) on campus in cases which require medical attention"* 
 > - *Oasis, the internal student platform*
 >
 
 The adjacent private GP clinic *The Clinic @ Campus* is the GP referred in the school policy, currently staffed by Dr Mervin Lim Lok Houw. It is also known that there is a list of psychiatrists written into school policy for which a number of students have been referred to for anti-depressants and benzodiazepines to be issued, of which three can be directly traces to Dr Ada Chung. As such, it is apparent that Prof Chong's involvement with MWKLSWC has more than just meets the eye.
 
-## NUS: the grandfather university
+## NUS: Unversity Counselling & Clinical & Health Psychology Centre
 
 {title="Figure 6: UCS"}
 ![Figure 6: UCS](images/6.UCS.png)
@@ -142,7 +143,7 @@ UCS is held within the purview of the NUS adminstration, specifically under Prof
 All the three centres and the Wellness Centre of Yale-NUS cross-refer to each other to some extent and to the psychiatric services provided by the in-house psychiatrists. As stated on their website:
 
 >
-> "Psychiatric consultations are only made through referrals from a counselor at UCS or a medical doctor at the University Health Service (Clinic).
+> *"Psychiatric consultations are only made through referrals from a counselor at UCS or a medical doctor at the University Health Service (Clinic)."*
 > - *NUS website*
 >
 
@@ -150,14 +151,17 @@ Should it be deemed necessary, students may be involuntarily pressured into NUH 
 
 It is also reported that it is part of the school policy and the purview of the Dean of Student Life of each faculty to interview and then refer students to UCS in the event of a drastic drop in GPA or failure on the pretext of "concerned(sic) for... well-being".
 
-## NTU: the unusual alliance between psychiatry and sociology
+## NTU: University Wellbeing Centre
 
 Located on the Jurong West region of Singapore, NTU was originally a Chinese University called Nanyang University. After a complicated merger and demerger with NUS, it was named NTU in 1991 and grew into a full fledged university, albeit with a strong focus on engineering. It also has its own Lee Kong Chian School of Medicine (LKCSoM) added in 2017.
 
 {title="Figure 8: UWC"}
-![Figure 8: UWC](images/8.UCS.png)
+![Figure 8: UWC](images/8.UWC.png)
 
-UWC is located with the University Health Services (UHS) building at 36 Nanyang Avenue on the second floor of the right and left wings, the right leading to the student counselling centre and the left leading to the student counselling centre. NTU is the only school that offer staff counselling. 
+UWC is located with the University Health Services (UHS) building at 36 Nanyang Avenue on the second floor of the right and left wings - the right leading to the student counselling centre and the left leading to the student counselling centre. NTU is the only school that offers staff counselling. On the ground floor is the medical clinic that is in-sourced to private clinic operator Fullerton Healthcare, that is the operations are outsource but the clinic functions as though it is part of the school with students having to pay no medical fees, except for dental. Up the stairwell leading to UWC are various encouraging messages, where you will be brought into a glass sliding door emblazoned with the words "University Wellbeing Centre (For Students). The counselling rooms are hidden inside the building and well guarded by counter staff.
+
+{title="Figure 9: UWC"}
+![Figure 9: UWC's governance structure](images/9.UWC.png)
 
 
 
