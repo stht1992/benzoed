@@ -29,7 +29,7 @@ But worse, these drugs cause dependence and addiction. Once dependence sets in, 
 [^I1]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014). The Cycle of Classification: DSM-I Through DSM-5. *Annual Review of Clinical Psychology*, 10(1), 25-51. DOI: 25-51.10.1146/annurev-clinpsy-032813-153639. Retrieved from [http://apsychoserver.psych.arizona.edu/JJBAReprints/PSYC621/Blashfield_etal_2014_ARCP.pdf](http://apsychoserver.psych.arizona.edu/JJBAReprints/PSYC621/Blashfield_etal_2014_ARCP.pdf).
 
 {#I2}
-[^I2]: Ibid.
+[^I2]: ibid.
 
 {#I3}
 [^I3]: American Psychiatric Association. (2016). Return of Organization Exempt from Income Tax (PDF). *Guidestar*. Retrieved from [https://pdf.guidestar.org/PDF_Images/2016/522/168/2016-522168499-0e8166c0-9O.pdf](https://pdf.guidestar.org/PDF_Images/2016/522/168/2016-522168499-0e8166c0-9O.pdf).
@@ -76,7 +76,7 @@ It is mentioned that the system works on key marketing messages earlier on, that
 {title="Figure 3: Campaign examples",id="fig3"}
 ![Figure 3: Campaign examples](images/3.Campaigns.png)
 
-The phenomenon of marketing is by no means a unique phenomenon to Singapore or to the universities in Singapore as seen in [figure 3](#fig3); It is a global trend spearheaded by the WHO's mental health teams staffed almost entirely of psychiatrists. There are a few flavours that global mental health campaigns come in and the list below is most certainly not exhaustive:
+The phenomenon of marketing is by no means a unique phenomenon to Singapore or to the universities in Singapore as seen in Figure 3](#fig3); It is a global trend spearheaded by the WHO's mental health teams staffed almost entirely of psychiatrists. There are a few flavours that global mental health campaigns come in and the list below is most certainly not exhaustive:
 
 * **Mental health awareness:** A rather iffy term, the message is by far the least well defined but generally paints the idea that mental illness is common and establishes suicide as being rooted in a mental illness, while painting mental health campaigns in a positive light. Some subsidiary campaigns that buttress into these awareness campaigns included "Mindfulness", a psychological technique to pay attention to the now without judgement in an effort to reduce rumination, improve attentional control, emotional regulation and self-awareness, thereby, purportedly, enhancing physical health[^I7]. An example of this is WHO's World Mental Health Day and the Mental Health Awareness Singapore campaign by SAMH, a psychiatry-affiliated advocacy non-profit organisation.
 
@@ -100,10 +100,35 @@ In all of these cases, the association with psychiatry is not mentioned, as in f
 
 ## SMU: a system grandfathered from NTU and NUS
 
-SMU, mooted by Dr Tony Tan (now President of Singapore), was founded in 2000 as Singapore's first American-style university broadly modelled after the Wharton School - University of Pennsylvania as conceived by Professor Tan Chin Tiong. Although new in many ways, its internal policies and academics were largely copied and ported over from NUS and NTU. As such, the system is vaguely similar in all three universities.
-
 {title="Figure 4"}
-![Figure 4: MWKLSWC structure    Note: x](images/4.MWKLSWC.png)
+![Figure 4: MWKLSWC](images/4.MWKLSWC.png)
+
+SMU, mooted by Dr Tony Tan (now President of Singapore), was founded in 2000 as Singapore's first American-style university broadly modelled after the Wharton School - University of Pennsylvania as conceived by Professor Tan Chin Tiong. It is currently located in the middle of the city, along the historic Fort Canning Hill that became the talk of the British Empire during the 1942 Battle of Singapore. Although new in many ways, its internal policies and academics were largely copied and ported over from NUS and NTU. As such, the system is vaguely similar in all three universities.
+
+{title="Figure 5"}
+![Figure 5: MWKLSWC governance structure](images/5.MWKLSWC.png)
+
+MWKLSWC lies under the purview of the Office of Dean of Students, which, at the point of the writing of this publication, is occupied by ex-NMP (Nominated Member of Parliament) and prominent sociologist Professor Paulin Tay Straughan and direct supervisor of Dr Ada Chung Yee Lin, the head of the centre who oversees four other counsellors under her.
+
+The wellness centre has an advisory board, of which is known to be occupied by two members:
+
+* **Professor Chong Siow Ann:** prominent psychiatrist in Singapore and Vice-Chairman of Research at the Institute of Mental Health, Singapore's only psychiatric hospital and asylum. He is also the leading researcher within psychiatry in Singapore, having hundreds of research papers to his name.
+
+* **Dr Frederick Low:** accomplished counsellor and vice-president of the Singapore Association for Counselling, currently working at the Children's Aid Society.
+
+Enshrined in school policy is doctor referral programme, where the website states[^10]:
+>
+> "External mental health agencies may be recommended for longer-term follow-up and treatment. All referrals are made with students' explicit agrement." 
+> - SMU Website
+>
+> "The Centre may also refer client to the General Practitioner (medical attention) on campus in cases which require medical attention" > - Oasis, the internal student platform  
+>
+
+It is also known that there is a list of psychiatrists written into school policy for which a number of students have been referred to for anti-depressants and benzodiazepines to be issued, of which three can be directly traces to Dr Ada Chung. As such, it is apparent that Prof Chong's involvement with MWKLSWC is more than meets the eye.
+
+## NUS: the grandfather university
+
+NUS has its roots even before the founding of Singapore and has a shared origins with the current University of Malaya in Kuala Lumpur. It has a sprawling campus across much of Clementi and Bukit Timah. Mental health services are administered from the University Health Centre (UHC) at 20 Lower Kent Ridge Road. Tucked away on the second floor of the building after walking up a discreet stairwell is a lounge and a corridor of many closed-doored counselling rooms.
 
 
 {#I7}
@@ -116,7 +141,8 @@ SMU, mooted by Dr Tony Tan (now President of Singapore), was founded in 2000 as 
 {#I9}
 [^I9]: Tan, Y. W. G., & Hsi, T. (2007). The Impact of Peer-Helper Program on Peer Helpers: Some Preliminary Findings. *8th International Conference on Human Resource Development Research and Practice across Europe*, Oxford, 27-29 June 2007. 1-18. Research Collection Lee Kong Chian School Of Business. Retrieved from [https://ink.library.smu.edu.sg/lkcsb_research/2850](https://ink.library.smu.edu.sg/lkcsb_research/2850).
 
-
+{#I10}
+[^I10]: Singapore Management University. (2019), op. cit.
 
 
 
