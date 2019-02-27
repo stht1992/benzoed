@@ -222,7 +222,7 @@ Without going into high levels of psychiatric and psychological academic knowled
 | DM-IV | 1994 | 886 | 383 | $120 million |
 | DM-IV-R | 2000 | 943 | 383 | unknown |
 | DM-5 | 2013 | 947 | 541 | unknown |
-| **Note:** Adapted from Blashfield et. al. (2014). |
+| **Note:** Adapted from Blashfield et. al. (2014).
 
 The DSM-5 breaks them down into 22 categories (20 if excluding the "Other mental disorders" and "Other conditions that may be a focus category"), while ICD-10 has 11 categories as expounded in below, of which the last category is labelled "Mental disorder, not otherwise specified, as such makes [10 effective categories](#fig11), which are broadly ordered in level of severity in the pyramid, defined as amount of disruption to living.
 
