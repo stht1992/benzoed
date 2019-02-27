@@ -55,7 +55,15 @@ Putting aside whether or not this business strategy helps people, which is indee
 
 ## Wellness porn: the key marketing messages
 
-It is mentioned that the system works on key marketing messages earlier on, that we shall call, somewhat perjoratively, "wellness porn", for the concealment of information while using the "wellness" term. What are some of the key messages that Big Pharma and the mental health professions wants the populace to believe?
+It is mentioned that the system works on key marketing messages earlier on, that we shall call, somewhat perjoratively, "wellness porn", for the concealment of information while using the "wellness" term.
+
+A business depends on key marketing messages that it distributes to its target audience. The unique thing about healthcare is its immediate appeal across all segments of society. This key marketing messages are contained within two types of marketing activities.
+
+**Research.** Research can be prescriptive and descriptive, positive or negative. Prescripive research in psychology and counselling commonly espouse the positives of early intervention and therapy, thereby bolstering the "bait" portion of the marketing strategy. Psychiatric research is often negative descriptive, portraying an "epidemic" of suicide and mental illness, as is usual with most medical professions and expected if coming from a pharmaceutical company, and positive precriptive, espousing the need for medication. Research is a form of marketing but mainly catered to rest of the medical profession, other academics and the government, from which they obtain grants and policy support. The hidden part is that the "disorder" is very much determined by the same community that writes the paper and hence is marked with a huge positive bias in psychiatric diagnosis both due to financial incentives, but also psychological phenomenon and individual circumstance such as confirmatory bias, trigger happy doctors too eager to diagnose and the practice of defensive medicine to push the blame of a death to a patient's "disorder"; the latter, of course, being proven by the Rosenhan Experiment and crucial to the survival of the profession. The research is what props up these key marketing messages as distortions in research are quickly transferred into the public, as demonstrated by the Singapore Mental Health Study for which is the basis of the Beyong The Label campaign.
+
+**Campaigns.** By winning over the counselling and psychological profession, which are largely not bound legally by the same advertisement restrictions, and the government, which clearly has the spending power, the system is able to summon a broad range of marketing campaigns.
+
+What are some of the key messages that Big Pharma and the mental health professions want the populace to believe?
 
 {title="Figure 2: Wellness Porn",width="100%"}
 | Message                     | Official reason        | Likely agenda                                                        |
