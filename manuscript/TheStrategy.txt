@@ -213,13 +213,14 @@ Certainly, what we see is that the close relationship between academic psychiatr
 
 # Hook: Why do the drugs pull you into the system?
 
-{title="Figure 11: Psychiatry Summarised",id="fig11"}-
+{title="Figure 11: Psychiatry Summarised",id="fig11"}
 ![Figure 11: Psychiatry Summarised](images/11.PsychiatrySummarise.jpg)
 
 Without going into high levels of psychiatric and psychological academic knowledge, we summarise the taxonomy established in the DSM-5, which lists 541 disorders[^I12], an astounding 41% increase in the number of diseases from DSM-IV and DSM-IV-TR.
 
 {title="Figure 12: Description of the editions of the DSM",width="100%"}
 | Edition | Publication date | Number of pages | Number of diagnoses | Revenue of APA |
+|===================================================|
 |=|:=:|:=:|:=:|:=|
 | DSM-I | 1952 | 132 | 128 | Unknown |
 | DSM-II | 1968 | 119 | 193 | $1.27 million |
