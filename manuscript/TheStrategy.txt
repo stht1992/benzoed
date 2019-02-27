@@ -216,7 +216,7 @@ Certainly, what we see is that the close relationship between academic psychiatr
 {title="Figure 11: Psychiatry Summarised",id="fig11"}-
 ![Figure 11: Psychiatry Summarised](images/11.PsychiatrySummarise.jpg)
 
-Without going into high levels of psychiatric and psychological academic knowledge, we summarise the taxonomy established in the DSM-5, which lists 541 disorders[^I12], an astouding 41% increase in the number of diseases from DSM-IV and DSM-IV-TR.
+Without going into high levels of psychiatric and psychological academic knowledge, we summarise the taxonomy established in the DSM-5, which lists 541 disorders[^I12], an astounding 41% increase in the number of diseases from DSM-IV and DSM-IV-TR.
 
 {title="Figure 12: Description of the editions of the DSM",width="100%"}
 | Edition | Publication date | Number of pages | Number of diagnoses | Revenue of APA |
@@ -228,7 +228,7 @@ Without going into high levels of psychiatric and psychological academic knowled
 | DM-IV | 1994 | 886 | 383 | $120 million |
 | DM-IV-R | 2000 | 943 | 383 | unknown |
 | DM-5 | 2013 | 947 | 541 | unknown |
-|-|
+|=|
 | **Note:** Adapted from Blashfield et. al. (2014). |
 
 The DSM-5 breaks them down into 22 categories (20 if excluding the "Other mental disorders" and "Other conditions that may be a focus category"), while ICD-10 has 11 categories as expounded in [Figure 13](#fig13), of which the last category is labelled "Mental disorder, not otherwise specified, as such makes [10 effective categories](#fig11), which are broadly ordered in level of severity in the pyramid, defined as amount of disruption to living.
@@ -258,7 +258,7 @@ A> F90-F98: Behavioural and emotional disorders with onset usually occurring in 
 A>
 A> F99: Mental disorder, not otherwise specified
 
-Regardless of how many disorders there are, there stands only four main categories of drugs for which psychiatry deems can resolve through the rebalancing of a "chemical imbalance", an unproven concept[^I13] that even if true, is not used in the clinical diagnosis as apparent in the DSM and in practice. The history of psychopharmacology, however, has never been to understand etiology before finding a pharmacological agent, but to work backwards; That is, most of the drugs were noted to have some form of psychoactive property when applied to other type of diseases, and then were imported into the field of psychiatry for these happenstance effects.
+Regardless of how many disorders there are, there stands only four main categories of drugs for which psychiatry deems can resolve all these purported disorders through the rebalancing of a "chemical imbalance", an unproven concept[^I13] that even if true, is not used in the clinical diagnosis as apparent in the DSM and in practice. The history of psychopharmacology, however, has never been to understand etiology before finding a pharmacological agent, but to work backwards; That is, most of the drugs were noted to have some form of psychoactive property when applied to other type of diseases, and then were imported into the field of psychiatry for these happenstance effects.
 
 {#I12}
 [^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
