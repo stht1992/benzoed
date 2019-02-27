@@ -190,7 +190,7 @@ This reflects no less in the way that social services in Singapore, and the worl
 
 Prof Chong is the pre-eminent intellectual authority in the mental health system as the only psychiatrist sitting on mental health policy formulation committees on both on national and tertiary education levels. He shares this position with Prof Kwok, whom unsurprising, is more than eager to agree with the narrative that social services and mental health are inextricably linked. Prof Chong is also chief examiner for the psychiatry residency programme and one of the examiners for the Singapore Association for Counselling.
 
-Figure 10(#fig10) also outlines the key institutions that uphold the mental health industry in Singapore. The premier instutition for mental health advocacy is SAMH, which has existed since 1968, and is mainly driven by the psychiatric community to drive the "mental health awareness" angle. The other organisation is the Silver Ribbon Commission, founded by three staff of IMH in 2005, and also the Singapore chapter of Ms Jean Singleton Liechty J.D.'s Silver Ribbon Coalition. The Silver Ribbon organisation takes the "destigmatisation" angle.
+[Figure 10](#fig10) also outlines the key institutions that uphold the mental health industry in Singapore. The premier instutition for mental health advocacy is SAMH, which has existed since 1968, and is mainly driven by the psychiatric community to drive the "mental health awareness" angle. The other organisation is the Silver Ribbon Commission, founded by three staff of IMH in 2005, and also the Singapore chapter of Ms Jean Singleton Liechty J.D.'s Silver Ribbon Coalition. The Silver Ribbon organisation takes the "destigmatisation" angle.
 
 Another notable organisation is the Samaritans of Singapore (SOS), a suicide hotline that grew into its current "suicide prevention" agenda, with some notable association with psychiatrists, though with a good mix of psychological and suicidological affiliations. It issues the media guidelines from which is based off WHO's recommendations.
 
@@ -228,7 +228,7 @@ Without going into high levels of psychiatric and psychological academic knowled
 | DM-IV | 1994 | 886 | 383 | $120 million |
 | DM-IV-R | 2000 | 943 | 383 | unknown |
 | DM-5 | 2013 | 947 | 541 | unknown |
-|=|
+|===================================================|
 | **Note:** Adapted from Blashfield et. al. (2014). |
 
 The DSM-5 breaks them down into 22 categories (20 if excluding the "Other mental disorders" and "Other conditions that may be a focus category"), while ICD-10 has 11 categories as expounded in [Figure 13](#fig13), of which the last category is labelled "Mental disorder, not otherwise specified, as such makes [10 effective categories](#fig11), which are broadly ordered in level of severity in the pyramid, defined as amount of disruption to living.
