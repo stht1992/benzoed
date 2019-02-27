@@ -200,19 +200,14 @@ Another notable organisation is the Samaritans of Singapore (SOS), a suicide hot
 
 Certainly, what we see is that the close relationship between academic psychiatry and academic sociology has translated into the practical nuts and bolts of applied psychiatry and social service policy. The implications to both national public policy and school policy has been tremendous. A systematic concealment of psychiatry is seen from head to toe by redirecting the public's attention to Wellness Porn messages, often justified under "not scaring" or preventing people from "seeking help".
 
-{#I7}
 [^I7]: Baer, R. A. (2003). Mindfulness Training as a Clinical Intervention: A Conceptual and Empirical Review. *Clinical Psychology: Science and Practice*, 10(2), 125-143. DOI: 10.1093/clipsy/bpg015. Retrieved February 26, 2019 from [http://www.wisebrain.org/papers/MindfulnessPsyTx.pdf](http://www.wisebrain.org/papers/MindfulnessPsyTx.pdf).
 
-{#I8}
 [^I8]: Singapore Management University. (2019). *Wellness Centre Services*. Retrieved January 30, 2019, from [https://www.smu.edu.sg/campus-life/student-wellness/wellness-centre-services](https://www.smu.edu.sg/campus-life/student-wellness/wellness-centre-services).
 
-{#I9}
 [^I9]: Tan, Y. W. G., & Hsi, T. (2007). The Impact of Peer-Helper Program on Peer Helpers: Some Preliminary Findings. *8th International Conference on Human Resource Development Research and Practice across Europe*, Oxford, 27-29 June 2007. 1-18. Research Collection Lee Kong Chian School Of Business. Retrieved from [https://ink.library.smu.edu.sg/lkcsb_research/2850](https://ink.library.smu.edu.sg/lkcsb_research/2850).
 
-{#I10}
 [^I10]: Singapore Management University. (2019), op. cit.
 
-{#I11}
 [^I11]: National University of Singapore. (n.d.). *NUS Department of Psychology - Clinical and Health Psychology Centre*. Retrieved February 4, 2019 from [https://www.fas.nus.edu.sg/psy/chpc.html](https://www.fas.nus.edu.sg/psy/chpc.html).
 
 # Hook: Why do the drugs pull you into the system?
@@ -236,11 +231,8 @@ Without going into high levels of psychiatric and psychological academic knowled
 |===================================================|
 | **Note:** Adapted from Blashfield et. al. (2014). |
 
-The DSM-5 breaks them down into 22 categories (20 if excluding the "Other mental disorders" and "Other conditions that may be a focus category"), while ICD-10 has 11 categories as expounded in [Figure 13](#fig13), of which the last category is labelled "Mental disorder, not otherwise specified, as such makes [10 effective categories](#fig11), which are broadly ordered in level of severity in the pyramid, defined as amount of disruption to living.
+The DSM-5 breaks them down into 22 categories (20 if excluding the "Other mental disorders" and "Other conditions that may be a focus category"), while ICD-10 has 11 categories as expounded in below, of which the last category is labelled "Mental disorder, not otherwise specified, as such makes [10 effective categories](#fig11), which are broadly ordered in level of severity in the pyramid, defined as amount of disruption to living.
 
-{#fig13}
-A> *Figure 13: ICD-10 Classification*
-A>
 A> F00-F09: Organic, including symptomtic, mental disorders
 A>
 A> F10-F19: Mental and behavioural disorders due to psychoactive substance use
@@ -266,12 +258,9 @@ A> F99: Mental disorder, not otherwise specified
 Regardless of how many disorders there are, there stands only four main categories of drugs for which psychiatry deems can resolve all these purported disorders through the rebalancing of a "chemical imbalance", an unproven concept[^I13] that even if true, is not used in the clinical diagnosis as apparent in the DSM and in practice. The history of psychopharmacology, however, has never been to understand etiology before finding a pharmacological agent, but to work backwards; That is, most of the drugs were noted to have some form of psychoactive property when applied to other type of diseases, and then were imported into the field of psychiatry for these happenstance effects.
 
 
-
-
-{#I12}
 [^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
 
-{#I13}
+
 [^I13]: Pies, R. W. (2014). Nuances, Narratives, and the "Chemical Imbalance" Debate. *Psychiatric Times*, 31(4). Retrieved February 27, 2019 from [https://www.psychiatrictimes.com/couch-crisis/nuances-narratives-and-chemical-imbalance-debate](https://www.psychiatrictimes.com/couch-crisis/nuances-narratives-and-chemical-imbalance-debate/page/0/1).
 
 
