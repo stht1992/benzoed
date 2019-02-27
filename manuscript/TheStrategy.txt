@@ -214,6 +214,7 @@ Without going into high levels of psychiatric and psychological academic knowled
 {title: "Figure 12: Description of the editions of the DSM", align: left, width: 100%, id: "fig12"}
 |=|:=:|:=:|:=:|:=|
 | Edition | Publication date | Number of pages | Number of diagnoses | Revenue of APA |
+|=|=|=|=|=|
 |=|:=:|:=:|:=:|:=|
 | DSM-I | 1952 | 132 | 128 | Unknown |
 | DSM-II | 1968 | 119 | 193 | $1.27 million |
