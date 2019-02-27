@@ -183,10 +183,18 @@ Sociologist Émile Durkheim (1858-1917), widely viewed as the father of sociolog
 
 Where sociology has lost out to psychiatry in is the backing of a powerful industry backing. Sociology has gained general acceptance across many fields, spreading its efforts quite thin, where psychology has focused almost its entire efforts defining suicide as a mental issue and psychiatry as a medical one, with products to sell.
 
-This reflects no less in the way that social services in Singapore, and the world, is conducted. In Singapore, social servies fall under the purview of the Ministry of Social and Family Services (MSF) through the umbrella body the National Council of Social Services (NCSS) that coordinates over 450 social service entities. The mark of psychiatry permaeates throughout the social service sector, as seen Figure 10(#fig10)
+This reflects no less in the way that social services in Singapore, and the world, is conducted. In Singapore, social servies fall under the purview of the Ministry of Social and Family Services (MSF) through the umbrella body the National Council of Social Services (NCSS) that coordinates over 450 social service entities. The mark of psychiatry permaeates throughout the social service sector, as seen 
 
 {title="Figure 10: UWC",id="fig10"}
 ![Figure 10: Psychiatry in Singapore's social services](images/10.SocialServices.jpg)
+
+Prof Chong is the pre-eminent intellectual authority in the mental health system as the only psychiatrist sitting on mental health policy formulation committees on both on national and tertiary education levels. He shares this position with Prof Kwok, whom unsurprising, is more than eager to agree with the narrative that social services and mental health are inextricably linked. Prof Chong is also chief examiner for the psychiatry residency programme and one of the examiners for the Singapore Association for Counselling.
+
+Figure 10(#fig10) also outlines the key institutions that uphold the mental health industry in Singapore. The premier instutition for mental health advocacy is SAMH, which has existed since 1968, and is mainly driven by the psychiatric community to drive the "mental health awareness" angle. The other organisation is the Silver Ribbon Commission, founded by three staff of IMH in 2005, and also the Singapore chapter of Ms Jean Singleton Liechty J.D.'s Silver Ribbon Coalition. The Silver Ribbon organisation takes the "destigmatisation" angle.
+
+
+
+
 
 {#I7}
 [^I7]: Baer, R. A. (2003). Mindfulness Training as a Clinical Intervention: A Conceptual and Empirical Review. *Clinical Psychology: Science and Practice*, 10(2), 125-143. DOI: 10.1093/clipsy/bpg015. Retrieved February 26, 2019 from [http://www.wisebrain.org/papers/MindfulnessPsyTx.pdf](http://www.wisebrain.org/papers/MindfulnessPsyTx.pdf).
