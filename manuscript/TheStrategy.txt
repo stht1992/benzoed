@@ -236,15 +236,16 @@ The DSM-5 breaks them down into 22 categories (20 if excluding the "Other mental
 {#fig13}
 A> *Figure 13: ICD-10 Classification*
 A> F00-F09: Organic, including symptomtic, mental disorders (e.g. Dementia, neuro developmen)
-A> F10-F19: Mental and behavioural disorders
-A> F20-F29: Schoz
-A> F30-F39
-A> F40-F49
-A> F50-F59
-A> F60-F69
-A> F70-F79
-A> F80-F89
-A> F90-F98
+A> F10-F19: Mental and behavioural disorders due to psychoactive substance use
+A> F20-F29: Schizophrenia, schizotypal and delusional disorders
+A> F30-F39: Mood [affective] disorders
+A> F40-F49: Neurotic, stress-related and sometimes somatoform disorders
+A> F50-F59: Behavioural syndromes associated with physiological disturbances and physical factors
+A> F60-F69: Disorders of adult personality and behaviour
+A> F70-F79: Mental retardation
+A> F80-F89: Disorders of psychological development
+A> F90-F98: Behavioural and emotional disorders with onset usually occurring in childhood and adolescence
+A> F99: Mental disorder, not otherwise specified
 
 Regardless of how many disorders there are, there stands only four main categories of drugs for which psychiatry deems can resolve through the rebalancing of a "chemical imbalance", an unproven concept[^I13] that even if true, is not used in the clinical diagnosis as apparent in the DSM and in practice. The history of psychopharmacology, however, has never been to understand etiology before finding a pharmacological agent, but to work backwards; That is, most of the drugs were noted to have some form of psychoactive property when a applied to other type of diseases, and then were applied to the field of psychiatry for these off-label effects.
 
