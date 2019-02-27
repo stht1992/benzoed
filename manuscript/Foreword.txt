@@ -1,5 +1,5 @@
 {
-title: Drugged & Dragge by the Wellness Centre
+title: Drugged & Dragged by the Wellness Centre
 authors: Benjamin Zodiac
 number-figures: true
 restart-endnote-numbering: true
