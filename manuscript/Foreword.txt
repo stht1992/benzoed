@@ -1,7 +1,11 @@
 {
 title: Drugged & Dragge by the Wellness Centre
 authors: Benjamin Zodiac
+number-figures: true
+restart-endnote-numbering: true
+restart-footnote-numbering: true
 }
+
 {frontmatter}
 
 # Foreword #
