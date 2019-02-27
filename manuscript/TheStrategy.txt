@@ -1,16 +1,8 @@
-{
-title: Drugged & Dragged by the Wellness Centre
-authors: Benjamin Zodiac
-number-figures: true
-restart-endnote-numbering: true
-restart-footnote-numbering: true
-}
-
 %% {alt: Outlining the Hook & Reel strategy, a brilliant money making endeavour, align: middle, cite: "", width: 100%, url: ""}
 
 # The Hook & Reel strategy #
 
-{alt: "Outlining the Hook & Reel strategy, a brilliant money making endeavour", align: middle, width: 100%}
+{caption: "The Hook & Reel Strategy, a brilliant money making scheme", alt: "The Hook & Reel Strategy outlined", align: middle, width: 100%}
 ![Figure 1: The Hook & Reel Strategy outlined](images/1.Hook&Reel.jpg)
 
 ## A summary
@@ -53,7 +45,7 @@ Putting aside whether or not this business strategy helps people, which is indee
 
 [^^I4]: Singapore Medical Council. (2016). *Ethical Code and Ethical Guidelines 2016 Edition*. Singapore: Singapore Medical Council. Retrieved from [http://www.healthprofessionals.gov.sg/smc/guidelines/smc-ethical-code-and-ethical-guidelines-(2002-and-2016-editions)-and-handbook-on-medical-ethics-(2016-edition)](http://www.healthprofessionals.gov.sg/smc/guidelines/smc-ethical-code-and-ethical-guidelines-(2002-and-2016-editions)-and-handbook-on-medical-ethics-(2016-edition)).
 
-[^^I5]: W-BAD. (2019). *CLASS ACTON LAWSUIT | WORLD BENZODIAZEPINE AWARENESS DAY | JULY 11*. Retrieved February 26, 2019 from [http://w-bad.org/classactionlawsuit/](http://w-bad.org/classactionlawsuit/).
+[^^I5]: W-BAD. (2019). *CLASS ACTON LAWSUIT \| WORLD BENZODIAZEPINE AWARENESS DAY \| JULY 11*. Retrieved February 26, 2019 from [http://w-bad.org/classactionlawsuit/](http://w-bad.org/classactionlawsuit/).
 
 [^^I6]: Breggin, P. R. (2006). Intoxication Anosognosia: The Spellbinding Effect of Psychiatric Drugs. *Ethical Human Psychology & Psychiatry*, 8(3), 201-215. DOI: 10.1891/ehppij-v8i3a003.
 
@@ -82,6 +74,8 @@ What are some of the key messages that Big Pharma and the mental health professi
 | **"Mental illness is like diabetes"** | Destigmatisation and medication compliance | Convinces both normal and disordered patients, once “diagnosed” to comply with medication for the benefit of Big Pharma. |
 |-----------------------------------------------------------------------------------------------------------------------------|
 | |
+
+===
 
 # Bait: How do UCCs invite to treat?
 
