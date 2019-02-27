@@ -2,7 +2,7 @@
 
 # The Hook & Reel strategy #
 
-{caption: "The Hook & Reel Strategy, a brilliant money making scheme", alt: "The Hook & Reel Strategy outlined", align: middle, width: 100%}
+{caption: "Figure 1: The Hook & Reel Strategy, a brilliant money making scheme", alt: "The Hook & Reel Strategy outlined", align: middle, width: 100%}
 ![Figure 1: The Hook & Reel Strategy outlined](images/1.Hook&Reel.jpg)
 
 ## A summary
@@ -61,7 +61,7 @@ A business depends on key marketing messages that it distributes to its target a
 
 What are some of the key messages that Big Pharma and the mental health professions want the populace to believe?
 
-{title: "Figure 2: Wellness Porn", align: left, width: 100%}
+{title: "Figure 2: Wellness Porn", align: "left", width: 100%, optional: attribute_list}
 | Message                     | Official reason        | Likely agenda                                                        |
 |=============================|:======================:|:=====================================================================:|
 | | |
@@ -79,7 +79,7 @@ What are some of the key messages that Big Pharma and the mental health professi
 
 # Bait: How do UCCs invite to treat?
 
-{caption: "The Hook & Reel Strategy, a brilliant money making scheme", alt: "Campaign examples", align: middle, width: 100%, id: "fig3"}
+{caption: "Figure 3: The Hook & Reel Strategy, a brilliant money making scheme", alt: "Campaign examples", align: middle, width: 100%, id: "fig3"}
 ![Figure 3: Campaign examples](images/3.Campaigns.jpg)
 
 The phenomenon of marketing is by no means a unique phenomenon to Singapore or to the universities in Singapore as seen in Figure 3](#fig3); It is a global trend spearheaded by the WHO's mental health teams staffed almost entirely of psychiatrists. There are a few flavours that global mental health campaigns come in and the list below is most certainly not exhaustive:
@@ -106,12 +106,12 @@ In all of these cases, the association with psychiatry is not mentioned, as in f
 
 ## SMU: Mrs Wong Kwok Leong Student Centre
 
-{caption: "The physical compounds of MWKLSWC.", alt: "Mrs Wong Kwok Leong Student Wellness Centre", align: middle, width: 100%}
+{caption: "Figure 4: The physical compounds of MWKLSWC.", alt: "Mrs Wong Kwok Leong Student Wellness Centre", align: middle, width: 100%}
 ![Figure 4: Mrs Wong Kwok Leong Student Wellness Centre](images/4.MWKLSWC.jpg)
 
 SMU, mooted by Dr Tony Tan (now President of Singapore), was founded in 2000 as Singapore's first American-style university broadly modelled after the Wharton School - University of Pennsylvania as conceived by Professor Tan Chin Tiong. It is currently located in the middle of the city, along the historic Fort Canning Hill that became the talk of the British Empire during the 1942 Battle of Singapore. Although new in many ways, its internal policies and academics were largely grandfathered from NUS and NTU. As such, the system is vaguely similar in all three universities.
 
-{caption: "The governance structure of MWKLSWC laid bare.", alt: "MWKLSWC's governance structure", align: middle, width: 100%}
+{caption: "Figure 5: The governance structure of MWKLSWC laid bare.", alt: "MWKLSWC's governance structure", align: middle, width: 100%}
 ![Figure 5: MWKLSWC's governance structure](images/5.MWKLSWC.jpg)
 
 MWKLSWC lies under the purview of the Office of Dean of Students, which at the point of the writing of this publication is occupied by ex-NMP (Nominated Member of Parliament) and prominent sociologist Professor Paulin Tay Straughan, and direct supervisor of Dr Ada Chung Yee Lin, the head of the centre who oversees four other counsellors in the centre. It is named after a wealthy donor Mrs Wong Kwok Leong for her contribution of S$1.6 million to the school's endownment fund.
@@ -136,12 +136,12 @@ The adjacent private GP clinic *The Clinic @ Campus* is the GP referred in the s
 
 ## NUS: Unversity Counselling Service & Clinical & Health Psychology Centre
 
-{caption: "The physical compounds of UCS.", alt: "University Counselling Service, align: middle, width: 100%}
+{caption: "Figure 6: The physical compounds of UCS.", alt: "University Counselling Service, align: middle, width: 100%}
 ![Figure 6: University Counselling Service & Clinical & Health Psychology Centre](images/6.UCS.jpg)
 
 NUS has its roots even before the founding of Singapore and has a shared origins with the current University of Malaya in Kuala Lumpur through the original King Edward VII Medical School. It has a sprawling campus across much of Clementi and Bukit Timah. Mental health services are administered from the University Health Centre (UHC) at 20 Lower Kent Ridge Road. Tucked away on the second floor of the building after walking up a discreet stairwell is a lounge and a corridor of many closed-doored counselling rooms, the compounds of NUS's UCS. At the ground floor of the UHC is the clinic, consisting of over 10 doctors, all of which are employees of NUS, serving the large student population. At the basement is the Clinical and Health Psychology Centre (CHPC) run by the NUS Department of Psychology[^^I11] that provides professional psychology help and assessment before allowing psychiatric intervention. There are approximately 2 or 3 psychiatrists at any one point of which one is Dr Clarice Hong Pei Hsia as of academic year 2018/19 term 1, according to ground research. Yale-NUS has its own Wellness Centre that is in some way affiliated to UCS. Also at the basement of UHC is the aptly named Wellness Office administering the system.
 
-{caption: "The governance structure of UCS laid bare.", alt: "UCS's governance structure", align: middle, width: 100%}
+{caption: "Figure 7: The governance structure of UCS laid bare.", alt: "UCS's governance structure", align: middle, width: 100%}
 ![Figure 7: UCS's governance structure](images/7.UCS.jpg)
 
 UCS is held within the purview of the NUS adminstration, specifically under Professor Florence Ling Yean Yng's, Vice Provost (Student Life) and faculty member of NUS Department of Building, School of Design and Environment (SDE), portfolio. Directly managing UHC is the director of UHC and medicl doctor, Dr Patrick Tan. Counselling services at Yale-NUS is headed up by Mr Goh Zhengqin, of which there is a team of around 10 counsellors. CHPC's acting director, as of the writing of this publication is Associate Professor Iliana Magiati.
@@ -161,12 +161,12 @@ It is also reported that it is part of the school policy and the purview of the 
 
 Located on the Jurong West region of Singapore, NTU was originally a Chinese University called Nanyang University. After a complicated merger and demerger with NUS, it was named NTU in 1991 and grew into a full fledged university, albeit with a strong focus on engineering. It also has its own Lee Kong Chian School of Medicine (LKCSoM) added in 2017.
 
-{caption: "The physical compounds of UWC.", alt: "University Wellbeing Centre, align: middle, width: 100%}
+{caption: "Figure 8: The physical compounds of UWC.", alt: "University Wellbeing Centre, align: middle, width: 100%}
 ![Figure 8: University Wellbeing Centre](images/8.UWC.jpg)
 
 UWC is located within the University Health Services (UHS) building at 36 Nanyang Avenue on the second floor of the right and left wings - the right leading to the student counselling centre and the left leading to the student counselling centre. NTU is the only school that offers staff counselling. On the ground floor is the medical clinic that is in-sourced to private clinic operator Fullerton Healthcare, that is the operations are outsource but the clinic functions as though it is part of the school with students having to pay no medical fees, except for dental. Up the stairwell leading to UWC are various encouraging messages, after which you will be brought into a glass sliding door emblazoned with the words "University Wellbeing Centre (For Students)". The counselling rooms are hidden inside the building and well guarded by counter staff.
 
-{caption: "The governance structure of UWC laid bare.", alt: "UWC's governance structure", align: middle, width: 100%}
+{caption: "Figure 9: The governance structure of UWC laid bare.", alt: "UWC's governance structure", align: middle, width: 100%}
 ![Figure 9: UWC's governance structure](images/9.UWC.jpg)
 
 Affairs related to UHS is under Associate Provost (Student Life) Professor Anthony Kwok Kian-Woon, another prominent sociologist. The UHS itself is managed by medical doctor Dr Goh Chin Foo, with the title of Chief Health, Safety & Emergency Officer; And UWC, by Mariam Hamid, the head counsellor.
@@ -183,7 +183,7 @@ Where sociology has lost out to psychiatry in is the backing of a powerful indus
 
 This reflects no less in the way that social services in Singapore, and the world, is conducted. In Singapore, social servies fall under the purview of the Ministry of Social and Family Services (MSF) through the umbrella body the National Council of Social Services (NCSS) that coordinates over 450 social service entities. The mark of psychiatry permaeates throughout the social service sector, as seen 
 
-{caption: "The evidence of psychiatry permeating all of the social services through board governance structures.", alt: "Psychiatry in Singapore's social services", align: middle, width: 100%, id: "fig10"}
+{caption: "Figure 10: The evidence of psychiatry permeating all of the social services through board governance structures.", alt: "Psychiatry in Singapore's social services", align: middle, width: 100%, id: "fig10"}
 ![Figure 10: Psychiatry in Singapore's social services](images/10.SocialServices.jpg)
 
 Prof Chong is the pre-eminent intellectual authority in the mental health system as the only psychiatrist sitting on mental health policy formulation committees on both on national and tertiary education levels. He shares this position with Prof Kwok, whom unsurprising, is more than eager to agree with the narrative that social services and mental health are inextricably linked. Prof Chong is also chief examiner for the psychiatry residency programme and one of the examiners for the Singapore Association for Counselling.
@@ -206,7 +206,7 @@ Certainly, what we see is that the close relationship between academic psychiatr
 
 # Hook: Why do the drugs pull you into the system?
 
-{caption: "The 10 class of disorders and 4 main categories of drugs in psychiatry.", alt: "Psychiatry Summarised", align: middle, width: 100%, id: "fig11"}
+{caption: "Figure 11: The 10 class of disorders and 4 main categories of drugs in psychiatry.", alt: "Psychiatry Summarised", align: middle, width: 100%, id: "fig11"}
 ![Figure 11: Psychiatry Summarised](images/11.PsychiatrySummarise.jpg)
 
 Without going into high levels of psychiatric and psychological academic knowledge, we summarise the taxonomy established in the DSM-5, which lists 541 disorders[^I12], an astounding 41% increase in the number of diseases from DSM-IV and DSM-IV-TR.
@@ -222,7 +222,6 @@ Without going into high levels of psychiatric and psychological academic knowled
 | DM-IV | 1994 | 886 | 383 | $120 million |
 | DM-IV-R | 2000 | 943 | 383 | unknown |
 | DM-5 | 2013 | 947 | 541 | unknown |
-|===================================================|
 | **Note:** Adapted from Blashfield et. al. (2014). |
 
 The DSM-5 breaks them down into 22 categories (20 if excluding the "Other mental disorders" and "Other conditions that may be a focus category"), while ICD-10 has 11 categories as expounded in below, of which the last category is labelled "Mental disorder, not otherwise specified, as such makes [10 effective categories](#fig11), which are broadly ordered in level of severity in the pyramid, defined as amount of disruption to living.
