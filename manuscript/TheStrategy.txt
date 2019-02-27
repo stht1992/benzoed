@@ -1,4 +1,4 @@
--# The Hook & Reel strategy
+# The Hook & Reel strategy #
 
 {title="Figure 1"}
 ![Figure 1: The Hook & Reel Strategy outlined](images/1.Hook&Reel.jpg)
@@ -260,6 +260,9 @@ A>
 A> F99: Mental disorder, not otherwise specified
 
 Regardless of how many disorders there are, there stands only four main categories of drugs for which psychiatry deems can resolve all these purported disorders through the rebalancing of a "chemical imbalance", an unproven concept[^I13] that even if true, is not used in the clinical diagnosis as apparent in the DSM and in practice. The history of psychopharmacology, however, has never been to understand etiology before finding a pharmacological agent, but to work backwards; That is, most of the drugs were noted to have some form of psychoactive property when applied to other type of diseases, and then were imported into the field of psychiatry for these happenstance effects.
+
+
+
 
 {#I12}
 [^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
