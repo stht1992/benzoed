@@ -255,16 +255,55 @@ Regardless of how many disorders there are, there stands only four main categori
 
 Modern pharmaceutical entrepeneurship and profiteering has taken that to the next level, to find new uses of these substances for other reasons, such as sedation, and even relabelling the same substance for another purported condition. An example is Wellbutrin (bupruprion), which is the exact same chemical, but rebranded into Zyban, a aid for smoking cessation. Another approach is to modify the same substance in small ways and rebrand it as a new and improved drug, which we see in the case of benzodiazepines, of which we will talk about in greater detail. Rebranding and profiteering is not necessarily a bad thing, but where the opportunity arises, pharmaceutical companies push the boundaries of what is beneficial for the patient, putting profit over the wellbeing of its customers. No where has this been taken to such extremes, as it has been in psychiatry, because of unfetter power to diagnose without the need for physical examination to identify pathology and etiology of the disease before making a prescription.
 
-The reasons for this is simple, we do not fully understand the brain, perhaps the most complex computation machine that, many believe, function from the quantum world. Intelligence can be modelled by neural networks, but these if-then-that models can never replace the infinite creativity, serendipity and emotional capacity of the human mind. Mental illnesses, then, were considered incurable
+The reasons for this is simple, we do not fully understand the brain, perhaps the most complex computation machine that, many believe, derives from the quantum world. Intelligence can be modelled by neural networks, but these if-then-that models can never replace the infinite creativity, serendipity and emotional capacity of the human mind. Mental illnesses, then, were considered incurable.
+
+The historically most important drug classes are the mood-stabilisers and then the anti-psychotics. It was in *Psychiatrie (6th edition 1899)* where Emile Kraepelin first sorted the mentally into two categories[^^I14]: dementia praecox and manic-depressive illness, which were to evolve into the nomenclature of psychotic and bipolar disorders we now know in the DSM. It is in these two categories of the classically mentally ill that advances in psychopharmacology were to take over the medical field. 
+
+## Mood-stablisers
+
+Lithium was originally used for gout, a result of excess uric acid in the body, in the 19th century as recommended by English physician Garrod. It was first used for Acute Mania in the form of lithium bromide in the 1870s by William Hammond, former US Surgeon General, due to the theory of "uric acid diathesis" that excess uric acid was responsible for a range of illnesses[^^I15]. 
+
+However, it was John Cade, a 37-year-old medical officer working in a war veterans' repatriation hospital for chronic psychiatric illness in an outer suburb of Melbourne, Australia, at the time of this discovery, or rather, rediscovery of lithium that sparked the psychopharmacological revolution. The son a psychiatrist, Cade had just been released from three years' imprisonment in the infamous Changi prisoner-of-war in Singapore during the Japanese Occupation when he undertook a research on the same "uric acid diathesis" when he chanced upon lithium carbonate in animal studies. His trial on humans found a dramatic effect on 3 patients with melanchola, but no benefit to patients with schizophrenia. The substance was finally approved in 1970 by the FDA for the treatment of mania, and the carbonate variant continues to be used to this day[^^I16].
+
+Other substances that soon followed Lithium, with a fairly comprehensive list below:
+
+* Lithium Carbonate (Lithium)
+
+* Sodium Valproate or Valproic Acid (Depakote)
+
+* Lamotigrine (Lamictal)
+
+* Carbamazepine (Tegretol) [non-FDA approved]
+
+* Topiramate (Topamax)
+
+* Oxcarbazepine (Trileptal)
+
+* **Some anti-psychotics:** chlorpromazine (Thorazine), haloperidol (Haldol), risperidone (Risperdal), olanzapine (Zyprexa), quetiapine (Seroquel), ziprasidone (Geodon), aripiprazole (Abilify), and asenapine (Saphris)
+
+Till now, Lithium remains the main, almost first line, mania specific drug, with valproate, lamotrigine and carbamazepine, also commonly prescribed, being anticonvulsants and others being anti-psychotics.
 
 ## Anti-psychotics
 
-Where the mentally ill were once treated with a host of quack therapies by psychiatry, such as frontal lobotomy,
+It was psychotic disorders (aka dementia praecox), that were always viewed as traditional insanity, and were treated with various quack therapies from trepanning to bloodletting since antiquity, that the major revolution was sparked. In Western society, the mentally ill were housed by the Catholic clergy in madhouses encouraged to repent their sins and to seek refuge in God's mercy, or in asylums where they were given barbaric treatments[^^17].
 
+The psychopharmacological approach to the treatment of the mentally ill started with the phenothiazine class of drugs, with the serenditpitous discovery by neurobiologist Henri Laborit thatinvestigated for
+Jean Delay and Deniker serendipitously discovered that an anti-histamine he had been investi
+
+https://historycooperative.org/a-beautiful-mind-the-history-of-the-treatment-of-mental-illness/
 
 [^^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
 
 [^^I13]: Pies, R. W. (2014). Nuances, Narratives, and the "Chemical Imbalance" Debate. *Psychiatric Times*, 31(4). Retrieved February 27, 2019 from [https://www.psychiatrictimes.com/couch-crisis/nuances-narratives-and-chemical-imbalance-debate](https://www.psychiatrictimes.com/couch-crisis/nuances-narratives-and-chemical-imbalance-debate/page/0/1).
+
+[^^I14]: Mitchell, P.B., & Hadzi-Pavlovic, D. (2000). Lithium treatment for bipolar disorder. *Bulletin of the World Health Organisation*, 78(4), 515-517. Retrieved from <http://who.int/bulletin/archives/78(4)515.pdf>.
+
+[^^I15]: ibid.
+
+
+[^^I16]: ibid.
+
+[^^I17]: Foerschner, A. M. (2010). The History of Mental Illness: From Skull Drills to Happy Pills. *Inquiries Journal/Student Pulse*, 2(09). Retrieved from <http://www.inquiriesjournal.com/a?id=1673>.
 
 
 
