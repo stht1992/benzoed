@@ -263,7 +263,7 @@ The historically most important drug classes are the mood-stabilisers and then t
 
 Lithium was originally used for gout, a result of excess uric acid in the body, in the 19th century as recommended by English physician Garrod. It was first used for Acute Mania in the form of lithium bromide in the 1870s by William Hammond, former US Surgeon General, due to the theory of "uric acid diathesis" that excess uric acid was responsible for a range of illnesses[^^I15]. 
 
-However, it was John Cade, a 37-year-old medical officer working in a war veterans' repatriation hospital for chronic psychiatric illness in an outer suburb of Melbourne, Australia, at the time of this discovery, or rather, rediscovery of lithium that sparked the psychopharmacological revolution. The son a psychiatrist, Cade had just been released from three years' imprisonment in the infamous Changi prisoner-of-war in Singapore during the Japanese Occupation when he undertook a research on the same "uric acid diathesis" when he chanced upon lithium carbonate in animal studies. His trial on humans found a dramatic effect on 3 patients with melanchola, but no benefit to patients with schizophrenia. The substance was finally approved in 1970 by the FDA for the treatment of mania, and the carbonate variant continues to be used to this day[^^I16].
+However, it was John Cade, a 37-year-old medical officer working in a war veterans' repatriation hospital for chronic psychiatric illness in an outer suburb of Melbourne, Australia, at the time of this discovery, or rather, rediscovery of lithium that sparked the psychopharmacological revolution. The son a psychiatrist, Cade had just been released from three years' imprisonment in the infamous Changi prisoner-of-war camp in Singapore during the Japanese Occupation when he undertook a research on the same "uric acid diathesis" theory and chanced upon lithium carbonate's effects in animal studies. His trial on humans found a dramatic effect on 3 patients with melancholia, but no benefit to patients with schizophrenia. The substance was finally approved in 1970 by the FDA for the treatment of mania, and the carbonate variant continues to be used to this day[^^I16].
 
 Other substances that soon followed Lithium, with a fairly comprehensive list below:
 
@@ -285,11 +285,42 @@ Till now, Lithium remains the main, almost first line, mania specific drug, with
 
 ## Anti-psychotics
 
-It was psychotic disorders (aka dementia praecox), that were always viewed as traditional insanity, and were treated with various quack therapies from trepanning to bloodletting since antiquity, that the major revolution was sparked. In Western society, the mentally ill were housed by the Catholic clergy in madhouses encouraged to repent their sins and to seek refuge in God's mercy, or in asylums where they were given barbaric treatments[^^18].
+It was psychotic disorders (aka dementia praecox), that were always viewed as traditional insanity, and were treated with various quack therapies from trepanning to bloodletting since antiquity, that the major revolution was sparked. In Western society, the mentally ill were either housed by the Catholic clergy in madhouses encouraged to repent their sins and to seek refuge in God's mercy, or in asylums where they were experimented upon with barbaric treatments[^^I18] of which would emergy frontal lobotomy, insulin shock and electroshock therapy.
 
-The psychopharmacological approach to the treatment of the psychotically ill started with the phenothiazine class of drugs, with the serenditpitous discovery by neurobiologist Henri Laborit that investigated for
+The psychopharmacological approach to the treatment of the psychotically ill started in the phenothiazine class of drugs, a group of chemicals anti-histaminic properties that includes promathazine (aka cough syrup), with the serendipitous discovery of chloropromazine by Henri-Marie Laborit, whom was much about the therapeutic use of the substance in sleep disorders to limited success. It was first tried on a manic patient in 1952 by Joseph Hammon to much success, although together with barbiturates and opiates, and as such was not taken seriously. It was only when Jean Delay and Deniker conducted a study in the same year with chlorpromazine alone that they found it effective and confirmed it with further studies, coining the term "neuroleptic".
 
-Jean Delay and Deniker serendipitously discovered that an anti-histamine he had been investi
+An explosion of other neuroleptics soon followed with haloperidol, a butyrophenone, in 1958 by Paul Janssen, and more phenothiazines trifluperazine, thioridazine and fluphenazine; then clozapine, modified from imipramine, a type of tricyclic anti-depressant, and so on.
+
+Anti-psychotics can be broadly broken into two generations, the second generation referring to later developed substance found in the search for treatment with fewer side effect, with notable drugs recommended by MOH guidlines and mentioned in the IMH psychiatry textbook noted[^^I19]:
+
+* First generation (typical):
+
+  - *Phenothiazines:* chlorpromazine (Thorazine), trifluoperazine (Stelazine)
+  
+  - *Butyrophenones*
+  
+  - *Thioxanthenes*
+  
+  - *Diphenylbutylpiperidines*
+  
+  - *Benzamides:* sulpiride (Dogmatil)
+  
+  - *Tricyclics*
+
+* First generation (typical):
+
+  - *Benzamides:* amisulpride (Solian)
+  
+  - *Benzisoxazoles/benzisothiazoles:* resperidone (Risperdal), paliperidone (Invega), ziprasidone (Geodon)
+  
+  - *Butyrophenones*
+  
+  - *Phenylpiperazines/quinolinones:* aripripazole (Abilify)
+  
+  - *Tricyclics:* clozapine (Clozaril), olanzapine (Zyprexa), quetiapine (Seroquel)
+  
+Anti-psychotics were a revolution in the area of mental health, but their usage has been marred by controversy, such as the forced usage of the substance on detained children at the USA-Mexico border in 2018. They also cause horrific extrapyramidal symptoms including involuntary movements akathisia & tardive dyskinesia and secondary parkinsonism, all of which are iatrogenic in nature. These can cause suicide, but a risk worth taking if volition is lost and the antidote benzhexol (Artane) or benztropine (Cogentin) are effective.
+
 
 
 [^^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
@@ -305,6 +336,8 @@ Jean Delay and Deniker serendipitously discovered that an anti-histamine he had 
 [^^I17]: Institute of Mental Health (2014). *Essential Guide to Psychiatry* (pp. 122-124). K. Sim, S. Sengupta, D. SS. Fung, K. T. Chee (Eds.). Singapore: Pearson Education South Asia.
 
 [^^I18]: Foerschner, A. M. (2010). The History of Mental Illness: From Skull Drills to Happy Pills. *Inquiries Journal/Student Pulse*, 2(09). Retrieved from <http://www.inquiriesjournal.com/a?id=1673>.
+
+[^^I19]: Institute of Mental Health (2014), pp. 90-91.
 
 
 
