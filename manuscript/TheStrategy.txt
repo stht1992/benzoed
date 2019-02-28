@@ -281,7 +281,7 @@ Other substances that soon followed Lithium, with a fairly comprehensive list be
 
 * **Some anti-psychotics:** chlorpromazine (Thorazine), haloperidol (Haldol), risperidone (Risperdal), olanzapine (Zyprexa), quetiapine (Seroquel), ziprasidone (Geodon), aripiprazole (Abilify), and asenapine (Saphris)
 
-Till now, Lithium remains the main, almost first line, mania specific drug, with valproate, lamotrigine and carbamazepine, also commonly prescribed, being anticonvulsants and others being anti-psychotics.
+Till now, Lithium remains the main, almost first line, mania specific drug, with valproate, lamotrigine and carbamazepine, also commonly prescribed, being anticonvulsants and others being anti-psychotics. The actual mechanism of how this substance, which we use in our batteries, has this effect, is still unknown.
 
 ## Anti-psychotics
 
@@ -291,7 +291,7 @@ The psychopharmacological approach to the treatment of the psychotically ill sta
 
 An explosion of other neuroleptics soon followed with haloperidol, a butyrophenone, in 1958 by Paul Janssen, and more phenothiazines trifluperazine, thioridazine and fluphenazine; then clozapine, modified from imipramine, a type of tricyclic anti-depressant, and so on.
 
-Anti-psychotics can be broadly broken into two generations, the second generation referring to later developed substance found in the search for treatment with fewer side effect, with notable drugs recommended by MOH guidlines and mentioned in the IMH psychiatry textbook noted[^^I19]:
+Anti-psychotics can be broadly broken into two generations, the second generation referring to later developed substance found in the search for treatment with fewer side effects, with notable drugs recommended by MOH guidlines and mentioned in the IMH psychiatry textbook noted[^^I19]:
 
 * First generation (typical):
 
@@ -321,6 +321,21 @@ Anti-psychotics can be broadly broken into two generations, the second generatio
   
 Anti-psychotics were a revolution in the area of mental health, but their usage has been marred by controversy, such as the forced usage of the substance on detained children at the USA-Mexico border in 2018. They also cause horrific extrapyramidal symptoms including involuntary movements akathisia & tardive dyskinesia and secondary parkinsonism, all of which are iatrogenic in nature. These can cause suicide, but a risk worth taking if volition is lost and the antidote benzhexol (Artane) or benztropine (Cogentin) are effective.
 
+Once again, it is a happenstance effect that brought the drug into the field, this time from the cough syrup we take all so often for cough and cold.
+
+## Anti-depressants
+
+Again, it was the entrepreneurial chemists that chanced upon the anti-depressant class of drug, which grew out of a group of tuberculosis drugs called isoniazids, first discovered by chemists at Hoffmann-La Roche. It was after Fox and Gibas (1953) synthesized iproniazid in the search for new forms of anti-tuberculosis agents that studies began to show that the drug induced an arousal and almost euphoric state in patients[^^I20]. Thus, one of the first few anti-depressants was born, only predated by the use of amphetamines, under the name Benzedrine in 1935 by the Smith, Kline and French company[^^I21], that would come to be used in World War II as an energy booster. Amphetamines would spark a global addiction crisis in crystal meth, become a controlled substance, and then undergo chemical evolution into Ritalin and Adderall, making a resurgence in the 1960s with the work of American child psychiatrist Charles Bradley on ADHD & Benzedrine to target our children[^I22].
+
+*Monoamine Oxidase Inhibitors (MAOI) and the Monoamine Hypothesis*
+
+It was around the 1960s that work surround reserpine, a treatment for hypertensive vascular diseases in the 1950s that had an unusual side effect of causing depression in patients and also found to inhibit the vesicular monoamine (i.e. serotonin and catecholamines) transporter, built the idea that patients with depression had depleted levels of serotonin, norepinphrine and dopamine. Although recent research suggests that this hypothesis needs to be revised[^^I23].
+
+It is with this hypothesis that iproniazid (Marsilid) would become the first MOAI anti-depressant, a class which worked by causing more of the monoamine neurotransmitter concentrations to increase in the presynaptic terminal.
+
+*Selective Serotonin Reuptake Inhibitors (SSRIs) & Selective Norepinphrine Reuptake Inhibitors (SSRIs)
+
+Buttressing into the Monoamine Hypothesis, it was found that using SSRIs would improve the mood of patients. SSRIs themselves emerged from a postmortem study that found depleted levels of serotonin in depressive suicides. Eli Lily was quick to capitalise on this conclusion by developing SSRI inhibitors, thereby increasing serotonin concentrations in the presynaptic cleft. The first SSRI fluoxetine was invented in 1974 and market as Prozac, the now famous "happy pill", in 1988. A similar renaissance would take place with the other monoamine transmitter norepinphrine with the release of Venlafaxine (Effexor) to the market in 1993[^^I24].
 
 
 [^^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
@@ -339,8 +354,15 @@ Anti-psychotics were a revolution in the area of mental health, but their usage 
 
 [^^I19]: Institute of Mental Health (2014), pp. 90-91.
 
+[^^I20]: Hillhouse, T. M., & Porter, J. H. (2015). A brief history of the development of antidepressant drugs: From monoamines to glutamate. *Experimental and Clinical Psychopharmacology*, 23(1), 1-21. DOI: 10.1037/a0038550.
 
+[^^I21]: Heal, D. J., Smith, S. L., Gosden, J., & Nutt, D. J. (2013). Fast Times: The Life, Death, and Rebirth of Amphetamine. *Journal of Psychopharmacology*, 27(6), 479-496. DOI: 10.1177/0269881113482532.
 
+[^^I22]: Hicks, J. (2012). Fast Times: The Life, Death, and Rebirth of Amphetamine. *Distillations: Science + Culture + History*.Retrieved from <https://www.sciencehistory.org/distillations/magazine/fast-times-the-life-death-and-rebirth-of-amphetamine>.
+
+[^^I23]: Hillhouse, T. M., & Porter, J. H. (2015), op. cit.
+
+[^^I24]: ibid.
 
 
 
