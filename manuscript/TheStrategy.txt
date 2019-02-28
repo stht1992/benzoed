@@ -287,7 +287,11 @@ Till now, Lithium remains the main, almost first line, mania specific drug, with
 
 It was psychotic disorders (aka dementia praecox), that were always viewed as traditional insanity, and were treated with various quack therapies from trepanning to bloodletting since antiquity, that the major revolution was sparked. In Western society, the mentally ill were either housed by the Catholic clergy in madhouses encouraged to repent their sins and to seek refuge in God's mercy, or in asylums where they were experimented upon with barbaric treatments[^^I18] of which would emergy frontal lobotomy, insulin shock and electroshock therapy.
 
-The psychopharmacological approach to the treatment of the psychotically ill started in the phenothiazine class of drugs, a group of chemicals anti-histaminic properties that includes promathazine (aka cough syrup), with the serendipitous discovery of chloropromazine by Henri-Marie Laborit, whom was much about the therapeutic use of the substance in sleep disorders to limited success. It was first tried on a manic patient in 1952 by Joseph Hammon to much success, although together with barbiturates and opiates, and as such was not taken seriously. It was only when Jean Delay and Deniker conducted a study in the same year with chlorpromazine alone that they found it effective and confirmed it with further studies, coining the term "neuroleptic".
+The psychopharmacological approach to the treatment of the psychotically ill started in the phenothiazine class of drugs, a group of chemicals anti-histaminic properties that includes promathazine (aka cough syrup), with the serendipitous discovery of chloropromazine by Henri-Marie Laborit, whom was much about the therapeutic use of the substance in sleep disorders to limited success.
+
+Phenothiazines, themselves, emerged from the precursor chemical Methylene blue, a blue dye that was recorded in 1899 to have been used by Genoan doctor Pietro Bodoni to calm psychotic people in the Italian asylums. Phenothiazines were inspired by the Methylene blue and produced by French pharma company Rhône-Poulenc (now part of Aventis)[^I18a].
+
+Chloropromazine was first tried on a manaic patient in 1952 in a study by Joseph Hammon to much success, although together with barbiturates and opiates, and as such was not taken seriously. It was only when Jean Delay and Deniker conducted a study in the same year with chlorpromazine alone that they found it effective and confirmed it with further studies, coining the term "neuroleptic".
 
 An explosion of other neuroleptics soon followed with haloperidol, a butyrophenone, in 1958 by Paul Janssen, and more phenothiazines trifluperazine, thioridazine and fluphenazine; then clozapine, modified from imipramine, a type of tricyclic anti-depressant, and so on.
 
@@ -327,7 +331,7 @@ Once again, it is a happenstance effect that brought the drug into the field, th
 
 Again, it was the entrepreneurial chemists that chanced upon the anti-depressant class of drug, which grew out of a group of tuberculosis drugs called isoniazids, first discovered by chemists at Hoffmann-La Roche. It was after Fox and Gibas (1953) synthesized iproniazid in the search for new forms of anti-tuberculosis agents that studies began to show that the drug induced an arousal and almost euphoric state in patients[^^I20]. Thus, one of the first few anti-depressants was born, only predated by the use of amphetamines, under the name Benzedrine in 1935 by the Smith, Kline and French company[^^I21], that would come to be used in World War II as an energy booster. Amphetamines would spark a global addiction crisis in crystal meth, become a controlled substance, and then undergo chemical evolution into Ritalin and Adderall, making a resurgence in the 1960s with the work of American child psychiatrist Charles Bradley on ADHD & Benzedrine to target our children[^I22].
 
-*Monoamine Oxidase Inhibitors (MAOI) and the Monoamine Hypothesis*
+*Monoamine Oxidase Inhibitors (MAOIs) and the Monoamine Hypothesis*
 
 It was around the 1960s that work surround reserpine, a treatment for hypertensive vascular diseases in the 1950s that had an unusual side effect of causing depression in patients and also found to inhibit the vesicular monoamine (i.e. serotonin and catecholamines) transporter, built the idea that patients with depression had depleted levels of serotonin, norepinphrine and dopamine. Although recent research suggests that this hypothesis needs to be revised[^^I23].
 
@@ -335,8 +339,25 @@ It is with this hypothesis that iproniazid (Marsilid) would become the first MOA
 
 *Selective Serotonin Reuptake Inhibitors (SSRIs) & Selective Norepinphrine Reuptake Inhibitors (SSRIs)
 
-Buttressing into the Monoamine Hypothesis, it was found that using SSRIs would improve the mood of patients. SSRIs themselves emerged from a postmortem study that found depleted levels of serotonin in depressive suicides. Eli Lily was quick to capitalise on this conclusion by developing SSRI inhibitors, thereby increasing serotonin concentrations in the presynaptic cleft. The first SSRI fluoxetine was invented in 1974 and market as Prozac, the now famous "happy pill", in 1988. A similar renaissance would take place with the other monoamine transmitter norepinphrine with the release of Venlafaxine (Effexor) to the market in 1993[^^I24].
+Buttressing into the Monoamine Hypothesis, it was found that using SSRIs would improve the mood of patients. SSRIs themselves emerged from a postmortem study that found depleted levels of serotonin in depressive suicides. Eli Lily was quick to capitalise on this conclusion by developing SSRI inhibitors, thereby increasing serotonin concentrations in the presynaptic cleft. The first SSRI fluoxetine was invented in 1974 and market as Prozac, the now famous "happy pill", in 1988. A similar renaissance would take place with the other monoamine neurotransmitter, norepinphrine, with the release of Venlafaxine (Effexor) to the market in 1993[^^I24].
 
+*Tricyclic Anti-depressants (TCAs)*
+
+As the success of chlorpromazine (Thorazine) sparked an intense hunt for more of these chemicals, another modification of promethazine yielded imipramine in 1951, originally also an anti-histamine, and found to have no anti-psychotic properties, but did improve the suffering of patients with severe depression. It was approved under the name Tofranil in 1959 by the FDA.
+
+*Atypical Anti-depressants*
+
+Other anti-depressants would follow on with different mechanisms, some examples here. Bupruprion (Wellbutrin) would be approved by the FDA in 1989 and was an different drug class (aminoketone) that would work through dopamine and norepinphrine (NDRA). Mirtazepine (Remeron), a tetracyclic (TeCA & NaSSA), would join the fray in 1996. Today, we are seeing a reexploration into the use of ketamine in modulating the glutamate monoamine neurotransmitter mechanism. 
+
+A brief summary of the classes of drugs and popular variants available in Singapore is summarised below:
+* *MAOIs:* moclobemide (Aurorix)
+* *SSRIs/SNRIs:* paroxetine (Paxil, SSRI), flouxetine (Prozac, SSRI), escitalopram (Lexapro, SSRI), fluvoxamine (Luvox, SSRI), sertraline (Zoloft, SSRI), citalopram (Celexa, SSRI), duloxetine (Cymbalta, SNRI), venlafaxine (Effexor, SNRI), desvenlafaxine (Pristiq, SNRI)
+* *TCAs:* imipramine (Tofranil), amitriptyline (Endep), clomipramine (Anafranil)
+* *Atypicals:* trazodone (Desyrel, SARI), bupruprion (Wellbutrin, NDRA), agomelatine (Valdoxan), mirtazepine (NaSSA)
+
+The history of anti-depressant is built on very shaky ground indeed, given that the monoamine hypothesis has been criticised as being over simplistic and also ignores the withdrawal effect on cessation, which may worsen the situation. Nonetheless, anti-depressants have been less harmful compared to the next set of drugs, the anti-anxiety drugs.
+
+*Anti-anxiety: Benzodiazepines & Z-drugs*
 
 [^^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
 
@@ -351,6 +372,8 @@ Buttressing into the Monoamine Hypothesis, it was found that using SSRIs would i
 [^^I17]: Institute of Mental Health (2014). *Essential Guide to Psychiatry* (pp. 122-124). K. Sim, S. Sengupta, D. SS. Fung, K. T. Chee (Eds.). Singapore: Pearson Education South Asia.
 
 [^^I18]: Foerschner, A. M. (2010). The History of Mental Illness: From Skull Drills to Happy Pills. *Inquiries Journal/Student Pulse*, 2(09). Retrieved from <http://www.inquiriesjournal.com/a?id=1673>.
+
+[^^I18a]: Greenberg, G. (2010). *Manufacturing Depression: The Secret History of a Modern Disease*. London, UK: Bloomsbury Publishing.
 
 [^^I19]: Institute of Mental Health (2014), pp. 90-91.
 
