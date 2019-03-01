@@ -325,7 +325,7 @@ Anti-psychotics can be broadly broken into two generations, the second generatio
   
 Anti-psychotics were a revolution in the area of mental health, but their usage has been marred by controversy, such as the forced usage of the substance on detained children at the USA-Mexico border in 2018. They also cause horrific extrapyramidal symptoms including involuntary movements akathisia & tardive dyskinesia and secondary parkinsonism, all of which are iatrogenic in nature. These can cause suicide, but a risk worth taking if volition is lost and the antidote benzhexol (Artane) or benztropine (Cogentin) are effective.
 
-Once again, it is a happenstance effect that brought the drug into the field, this time from the cough syrup we take all so often for cough and cold.
+Once again, it is a happenstance effect that brought the drug into the field, this time from a blue dye and the cough syrup we take all so often for cough and cold.
 
 ## Anti-depressants
 
@@ -355,9 +355,16 @@ A brief summary of the classes of drugs and popular variants available in Singap
 * *TCAs:* imipramine (Tofranil), amitriptyline (Endep), clomipramine (Anafranil)
 * *Atypicals:* trazodone (Desyrel, SARI), bupruprion (Wellbutrin, NDRA), agomelatine (Valdoxan), mirtazepine (NaSSA)
 
-The history of anti-depressant is built on very shaky ground indeed, given that the monoamine hypothesis has been criticised as being over simplistic and also ignores the withdrawal effect on cessation, which may worsen the situation. Nonetheless, anti-depressants have been less harmful compared to the next set of drugs, the anti-anxiety drugs.
+The history of anti-depressants is built on very shaky ground indeed, given that the monoamine hypothesis has been criticised as being over simplistic and ignores the withdrawal effect on cessation, which may worsen the situation. Nonetheless, anti-depressants have been less harmful compared to the next set of drugs, the anti-anxiety drugs.
 
 *Anti-anxiety: Benzodiazepines & Z-drugs*
+
+The benzodiazepines were precede by the barbiturates, which were themselves predated by a group of substances that included the akaloids(e.g. opium and morphine), bromides and chloral hydrates. These substances were originally used for their sedative and/or hypnotic properties for all sorts of reasons from insomnia, surgery to calming down excitable maniac patients[^^I26]. 
+
+First synthesised in 1864 by Adolf von Baeyer (founder of Bayer), barbiturates' clinical introduction began in 1904 by German pharmaceutical companies F Bayer & Co (still Bayer in the present date) and E Merck (still Merck in the present date) when barbital (Veronal) was brought into the market. The substance was a sellout and was followed by many other compounds. However, it was phenobarbital (Veronal) employed in 1912, that was to gain widespread use for its prolonged pharmacological action. It usage in psychiatry, was quickly applied to psychotic patients, likely for the obvious reason of suppressing disruptive behaviour, whom would be induced into a constant state of sleep[^^I27].
+
+
+
 
 [^^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
 
@@ -387,5 +394,8 @@ The history of anti-depressant is built on very shaky ground indeed, given that 
 
 [^^I24]: ibid.
 
+[^^I26]: López-Muñoz, F., Ucha-Udabe, R., & Alamo, C. (2005). The history of barbiturates a century after their clinical introduction. *Neuropsychiatric Disease and Treatment*, 1(4), 329-343. Retrieved from <https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2424120/>.
+
+[^^I27]: ibid.
 
 
