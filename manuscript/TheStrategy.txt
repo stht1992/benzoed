@@ -209,12 +209,11 @@ Certainly, what we see is that the close relationship between academic psychiatr
 {caption: "Figure 11: The 10 class of disorders and 4 main categories of drugs in psychiatry.", alt: "Psychiatry Summarised", align: middle, width: 100%, id: "fig11"}
 ![Figure 11: Psychiatry Summarised](images/11.PsychiatrySummarise.jpg)
 
-Without going into high levels of psychiatric and psychological academic knowledge, we summarise the taxonomy established in the DSM-5, which lists 541 disorders[^I12], an astounding 41% increase in the number of diseases from DSM-IV and DSM-IV-TR.
+Without going into high levels of psychiatric and psychological academic knowledge, we summarise the taxonomy established in the DSM-5, which lists 541 disorders[^^I12], an astounding 41% increase in the number of diseases from DSM-IV and DSM-IV-TR.
 
 {title: "Figure 12: Description of the editions of the DSM", align: left, width: 100%, id: "fig12"}
 |=|:=:|:=:|:=:|:=|
 | Edition | Publication date | Number of pages | Number of diagnoses | Revenue of APA |
-|=|=|=|=|=|
 |=|:=:|:=:|:=:|:=|
 | DSM-I | 1952 | 132 | 128 | Unknown |
 | DSM-II | 1968 | 119 | 193 | $1.27 million |
@@ -223,7 +222,6 @@ Without going into high levels of psychiatric and psychological academic knowled
 | DM-IV | 1994 | 886 | 383 | $120 million |
 | DM-IV-R | 2000 | 943 | 383 | unknown |
 | DM-5 | 2013 | 947 | 541 | unknown |
-|=|=|=|=|=|
 
 **Note:** Adapted from Blashfield et. al. (2014).
 
