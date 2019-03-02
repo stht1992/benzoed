@@ -331,33 +331,33 @@ Once again, it is a happenstance effect that brought the drug into the field, th
 
 Again, it was the entrepreneurial chemists that chanced upon the anti-depressant class of drug, which grew out of a group of tuberculosis drugs called isoniazids, first discovered by chemists at Hoffmann-La Roche. It was after Fox and Gibas (1953) synthesized iproniazid in the search for new forms of anti-tuberculosis agents that studies began to show that the drug induced an arousal and almost euphoric state in patients[^^I20]. Thus, one of the first few anti-depressants was born, only predated by the use of amphetamines, under the name Benzedrine in 1935 by the Smith, Kline and French company[^^I21], that would come to be used in World War II as an energy booster. Amphetamines would spark a global addiction crisis in crystal meth, become a controlled substance, and then undergo chemical evolution into Ritalin and Adderall, making a resurgence in the 1960s with the work of American child psychiatrist Charles Bradley on ADHD & Benzedrine to target our children[^I22].
 
-*Monoamine Oxidase Inhibitors (MAOIs) and the Monoamine Hypothesis*
+### Monoamine Oxidase Inhibitors (MAOIs) and the Monoamine Hypothesis
 
 It was around the 1960s that work surround reserpine, a treatment for hypertensive vascular diseases in the 1950s that had an unusual side effect of causing depression in patients and also found to inhibit the vesicular monoamine (i.e. serotonin and catecholamines) transporter, built the idea that patients with depression had depleted levels of serotonin, norepinphrine and dopamine. Although recent research suggests that this hypothesis needs to be revised[^^I23].
 
 It is with this hypothesis that iproniazid (Marsilid) would become the first MOAI anti-depressant, a class which worked by causing more of the monoamine neurotransmitter concentrations to increase in the presynaptic terminal.
 
-*Selective Serotonin Reuptake Inhibitors (SSRIs) & Selective Norepinphrine Reuptake Inhibitors (SSRIs)
+### Selective Serotonin Reuptake Inhibitors (SSRIs) & Selective Norepinphrine Reuptake Inhibitors (SSRIs)
 
 Buttressing into the Monoamine Hypothesis, it was found that using SSRIs would improve the mood of patients. SSRIs themselves emerged from a postmortem study that found depleted levels of serotonin in depressive suicides. Eli Lily was quick to capitalise on this conclusion by developing SSRI inhibitors, thereby increasing serotonin concentrations in the presynaptic cleft. The first SSRI fluoxetine was invented in 1974 and market as Prozac, the now famous "happy pill", in 1988. A similar renaissance would take place with the other monoamine neurotransmitter, norepinphrine, with the release of Venlafaxine (Effexor) to the market in 1993[^^I24].
 
-*Tricyclic Anti-depressants (TCAs)*
+### Tricyclic Anti-depressants (TCAs)
 
 As the success of chlorpromazine (Thorazine) sparked an intense hunt for more of these chemicals, another modification of promethazine yielded imipramine in 1951, originally also an anti-histamine, and found to have no anti-psychotic properties, but did improve the suffering of patients with severe depression. It was approved under the name Tofranil in 1959 by the FDA.
 
-*Atypical Anti-depressants*
+### Atypical Anti-depressants
 
 Other anti-depressants would follow on with different mechanisms, some examples here. Bupruprion (Wellbutrin) would be approved by the FDA in 1989 and was an different drug class (aminoketone) that would work through dopamine and norepinphrine (NDRA). Mirtazepine (Remeron), a tetracyclic (TeCA & NaSSA), would join the fray in 1996. Today, we are seeing a reexploration into the use of ketamine in modulating the glutamate monoamine neurotransmitter mechanism. 
 
 A brief summary of the classes of drugs and popular variants available in Singapore is summarised below:
-* *MAOIs:* moclobemide (Aurorix)
-* *SSRIs/SNRIs:* paroxetine (Paxil, SSRI), flouxetine (Prozac, SSRI), escitalopram (Lexapro, SSRI), fluvoxamine (Luvox, SSRI), sertraline (Zoloft, SSRI), citalopram (Celexa, SSRI), duloxetine (Cymbalta, SNRI), venlafaxine (Effexor, SNRI), desvenlafaxine (Pristiq, SNRI)
-* *TCAs:* imipramine (Tofranil), amitriptyline (Endep), clomipramine (Anafranil)
-* *Atypicals:* trazodone (Desyrel, SARI), bupruprion (Wellbutrin, NDRA), agomelatine (Valdoxan), mirtazepine (NaSSA)
+* **MAOIs:** moclobemide (Aurorix)
+* **SSRIs/SNRIs:** paroxetine (Paxil, SSRI), flouxetine (Prozac, SSRI), escitalopram (Lexapro, SSRI), fluvoxamine (Luvox, SSRI), sertraline (Zoloft, SSRI), citalopram (Celexa, SSRI), duloxetine (Cymbalta, SNRI), venlafaxine (Effexor, SNRI), desvenlafaxine (Pristiq, SNRI)
+* **TCAs:** imipramine (Tofranil), amitriptyline (Endep), clomipramine (Anafranil)
+* **Atypicals:** trazodone (Desyrel, SARI), bupruprion (Wellbutrin, NDRA), agomelatine (Valdoxan), mirtazepine (NaSSA)
 
 The history of anti-depressants is built on very shaky ground indeed, given that the monoamine hypothesis has been criticised as being over simplistic and ignores the withdrawal effect on cessation, which may worsen the situation. Nonetheless, anti-depressants have been less harmful compared to the next set of drugs, the anti-anxiety drugs.
 
-*Anti-anxiety: Benzodiazepines & Z-drugs*
+## Anti-anxiety: Benzodiazepines & Z-drugs
 
 The benzodiazepines were precede by the barbiturates, which were themselves predated by a group of substances that included the akaloids(e.g. opium and morphine), bromides and chloral hydrates. These substances were originally used for their sedative and/or hypnotic properties for all sorts of reasons from insomnia, surgery to calming down excitable maniac patients[^^I26]. 
 
@@ -373,7 +373,7 @@ The first benzodiazepine, chlorodiazepoxide (Librium) was discovered in 1955, as
 Benzodiazepines became the next money-train in the pharmaceutical industry. Competitors of Roche quickly jumped in with oxazepam (Serax, trialed in 1961, commercialised in 1965) Wyeth developed in 1961, then alprazolam (Xanax, patent filed in 1969, FDA approved in 1981) by Upjohn (now part of Pfizer) and trizolam (Halcion, patented in 1970, FDA approved in 1982). Many would follow, and Xanax would gain fame as a common street drug for the Xan Bars concoction frequently abused by Hollywood musicians for the sense of calm and euphoria that it could induce[^^I31].
 
 
-
+![Hello World in Ruby](http://markua.com/hello.rb)
 
 
 
