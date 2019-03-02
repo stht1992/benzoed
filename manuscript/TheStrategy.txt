@@ -1,5 +1,4 @@
 {mainmatter}
-
 # The Hook & Reel strategy #
 
 {caption: "Figure 1: The Hook & Reel Strategy outlined", alt: "The Hook & Reel Strategy outlined", align: middle, width: 100%}
