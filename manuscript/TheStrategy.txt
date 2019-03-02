@@ -122,7 +122,7 @@ The wellness centre has an advisory board, of which is known to be occupied by t
 
 * **Dr Frederick Low:** accomplished counsellor and vice-president of the Singapore Association for Counselling, currently working at the Children's Aid Society.
 
-Enshrined in school policy is doctor referral programme, where the website states[^I10]:
+Enshrined in school policy is doctor referral programme, where the website states[^^I10]:
 
 >
 > *"External mental health agencies may be recommended for longer-term follow-up and treatment. All referrals are made with students' explicit agrement."*
@@ -202,7 +202,7 @@ Certainly, what we see is that the close relationship between academic psychiatr
 
 [^^I10]: Singapore Management University. (2019), op. cit.
 
-[^I11]: National University of Singapore. (n.d.). *NUS Department of Psychology - Clinical and Health Psychology Centre*. Retrieved February 4, 2019 from [https://www.fas.nus.edu.sg/psy/chpc.html](https://www.fas.nus.edu.sg/psy/chpc.html).
+[^^I11]: National University of Singapore. (n.d.). *NUS Department of Psychology - Clinical and Health Psychology Centre*. Retrieved February 4, 2019 from [https://www.fas.nus.edu.sg/psy/chpc.html](https://www.fas.nus.edu.sg/psy/chpc.html).
 
 # Hook: Why do the drugs pull you into the system?
 
@@ -333,7 +333,7 @@ Again, it was the entrepreneurial chemists that chanced upon the anti-depressant
 
 ### Monoamine Oxidase Inhibitors (MAOIs) and the Monoamine Hypothesis
 
-It was around the 1960s that work surround reserpine, a treatment for hypertensive vascular diseases in the 1950s that had an unusual side effect of causing depression in patients and also found to inhibit the vesicular monoamine (i.e. serotonin and catecholamines) transporter, built the idea that patients with depression had depleted levels of serotonin, norepinphrine and dopamine. Although recent research suggests that this hypothesis needs to be revised[^^I23].
+It was around the 1960s that work surround reserpine, a treatment for hypertensive vascular diseases in the 1950s that had an unusual side effect of causing depression in patients and also found to inhibit the vesicular monoamine (i.e. serotonin and catecholamines) transporter, that the idea that patients with depression had depleted levels of serotonin, norepinphrine and dopamine was formulated. However, recent research suggests that this hypothesis needs to be revised[^^I23].
 
 It is with this hypothesis that iproniazid (Marsilid) would become the first MOAI anti-depressant, a class which worked by causing more of the monoamine neurotransmitter concentrations to increase in the presynaptic terminal.
 
@@ -350,9 +350,13 @@ As the success of chlorpromazine (Thorazine) sparked an intense hunt for more of
 Other anti-depressants would follow on with different mechanisms, some examples here. Bupruprion (Wellbutrin) would be approved by the FDA in 1989 and was an different drug class (aminoketone) that would work through dopamine and norepinphrine (NDRA). Mirtazepine (Remeron), a tetracyclic (TeCA & NaSSA), would join the fray in 1996. Today, we are seeing a reexploration into the use of ketamine in modulating the glutamate monoamine neurotransmitter mechanism. 
 
 A brief summary of the classes of drugs and popular variants available in Singapore is summarised below:
+
 * **MAOIs:** moclobemide (Aurorix)
+
 * **SSRIs/SNRIs:** paroxetine (Paxil, SSRI), flouxetine (Prozac, SSRI), escitalopram (Lexapro, SSRI), fluvoxamine (Luvox, SSRI), sertraline (Zoloft, SSRI), citalopram (Celexa, SSRI), duloxetine (Cymbalta, SNRI), venlafaxine (Effexor, SNRI), desvenlafaxine (Pristiq, SNRI)
+
 * **TCAs:** imipramine (Tofranil), amitriptyline (Endep), clomipramine (Anafranil)
+
 * **Atypicals:** trazodone (Desyrel, SARI), bupruprion (Wellbutrin, NDRA), agomelatine (Valdoxan), mirtazepine (NaSSA)
 
 The history of anti-depressants is built on very shaky ground indeed, given that the monoamine hypothesis has been criticised as being over simplistic and ignores the withdrawal effect on cessation, which may worsen the situation. Nonetheless, anti-depressants have been less harmful compared to the next set of drugs, the anti-anxiety drugs.
@@ -396,7 +400,7 @@ Benzodiazepines became the next money-train in the pharmaceutical industry. Comp
 
 [^^I21]: Heal, D. J., Smith, S. L., Gosden, J., & Nutt, D. J. (2013). Fast Times: The Life, Death, and Rebirth of Amphetamine. *Journal of Psychopharmacology*, 27(6), 479-496. DOI: 10.1177/0269881113482532.
 
-[^^I22]: Hicks, J. (2012). Fast Times: The Life, Death, and Rebirth of Amphetamine. *Distillations: Science + Culture + History*.Retrieved from <https://www.sciencehistory.org/distillations/magazine/fast-times-the-life-death-and-rebirth-of-amphetamine>.
+[^^I22]: Hicks, J. (2012). Fast Times: The Life, Death, and Rebirth of Amphetamine. *Distillations: Science + Culture + History*. Retrieved from <https://www.sciencehistory.org/distillations/magazine/fast-times-the-life-death-and-rebirth-of-amphetamine>.
 
 [^^I23]: Hillhouse, T. M., & Porter, J. H. (2015), op. cit.
 
