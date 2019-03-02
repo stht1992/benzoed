@@ -1,4 +1,5 @@
 {mainmatter}
+
 # The Hook & Reel strategy #
 
 {caption: "Figure 1: The Hook & Reel Strategy outlined", alt: "The Hook & Reel Strategy outlined", align: middle, width: 100%}
@@ -68,20 +69,20 @@ What are some of the key messages that Big Pharma and the mental health professi
 | | |
 | **"Seek help if you are stressed** | Suicide prevention, empathy | Anxiety pills are the most addictive and are the most seductively angled. Stress happens to be frequently blamed for all sort of disorders. |
 | | |
-| **"It’s for your wellness**| Counselling, therapy and medication, if needed, are there to help you through tough times, empathy | Positive marketing angle designed to invite consumers into the offices of mental health professionals. Also establishes Bona Fide intent of the perpetrators in the eyes of law. |
+| **"It’s for your wellness"**| Counselling, therapy and medication, if needed, are there to help you through tough times, empathy | Positive marketing angle designed to invite consumers into the offices of mental health professionals. Also establishes Bona Fide intent of the perpetrators in the eyes of law. |
 | | |
 | **"Mental illness is like diabetes"** | Destigmatisation and medication compliance | Convinces both normal and disordered patients, once “diagnosed” to comply with medication for the benefit of Big Pharma. |
 |-----------------------------------------------------------------------------------------------------------------------------|
 | |
 
-===
+%%===
 
 # Bait: How do UCCs invite to treat?
 
 {caption: "Figure 3: Campaign examples", alt: "Campaign examples", align: middle, width: 100%, id: "fig3"}
 ![Figure 3: Campaign examples](images/3.Campaigns.jpg)
 
-The phenomenon of marketing is by no means a unique phenomenon to Singapore or to the universities in Singapore as seen in Figure 3](#fig3); It is a global trend spearheaded by the WHO's mental health teams staffed almost entirely of psychiatrists. There are a few flavours that global mental health campaigns come in and the list below is most certainly not exhaustive:
+The phenomenon of marketing is by no means a unique phenomenon to Singapore or to the universities in Singapore as seen in [Figure 3](#fig3); It is a global trend spearheaded by the WHO's mental health teams staffed almost entirely of psychiatrists. There are a few flavours that global mental health campaigns come in and the list below is most certainly not exhaustive:
 
 * **Mental health awareness:** A rather iffy term, the message is by far the least well defined but generally paints the idea that mental illness is common and establishes suicide as being rooted in a mental illness, while painting mental health campaigns in a positive light. Some subsidiary campaigns that buttress into these awareness campaigns included "Mindfulness", a psychological technique to pay attention to the now without judgement in an effort to reduce rumination, improve attentional control, emotional regulation and self-awareness, thereby, purportedly, enhancing physical health[^^I7]. An example of this is WHO's World Mental Health Day and the Mental Health Awareness Singapore campaign by SAMH, a psychiatry-affiliated advocacy non-profit organisation.
 
@@ -126,6 +127,8 @@ Enshrined in school policy is doctor referral programme, where the website state
 >
 > *"External mental health agencies may be recommended for longer-term follow-up and treatment. All referrals are made with students' explicit agrement."*
 > - *SMU website*
+>
+>
 >
 > *"The Centre may also refer client to the General Practitioner (medical attention) on campus in cases which require medical attention"* 
 > - *Oasis, the internal student platform*
