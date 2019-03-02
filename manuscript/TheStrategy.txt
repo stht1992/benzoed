@@ -1,5 +1,3 @@
-%% {alt: Outlining the Hook & Reel strategy, a brilliant money making endeavour, align: middle, cite: "", width: 100%, url: ""}
-
 {mainmatter}
 
 # The Hook & Reel strategy #
@@ -141,7 +139,7 @@ The adjacent private GP clinic *The Clinic @ Campus* is the GP referred in the s
 {caption: "Figure 6: University Counselling Service & Clinical & Health Psychology Centre", alt: "University Counselling Service, align: middle, width: 100%}
 ![Figure 6: University Counselling Service & Clinical & Health Psychology Centre](images/6.UCS.jpg)
 
-NUS has its roots even before the founding of Singapore and has a shared origins with the current University of Malaya in Kuala Lumpur through the original King Edward VII Medical School. It has a sprawling campus across much of Clementi and Bukit Timah. Mental health services are administered from the University Health Centre (UHC) at 20 Lower Kent Ridge Road. Tucked away on the second floor of the building after walking up a discreet stairwell is a lounge and a corridor of many closed-doored counselling rooms, the compounds of NUS's UCS. At the ground floor of the UHC is the clinic, consisting of over 10 doctors, all of which are employees of NUS, serving the large student population. At the basement is the Clinical and Health Psychology Centre (CHPC) run by the NUS Department of Psychology[^^I11] that provides professional psychology help and assessment before allowing psychiatric intervention. There are approximately 2 or 3 psychiatrists at any one point of which one is Dr Clarice Hong Pei Hsia as of academic year 2018/19 term 1, according to ground research. Yale-NUS has its own Wellness Centre that is in some way affiliated to UCS. Also at the basement of UHC is the aptly named Wellness Office administering the system.
+NUS has its roots even before the founding of Singapore and has a shared origin with the current University of Malaya in Kuala Lumpur through the original King Edward VII Medical School. It has a sprawling campus across much of Clementi and Bukit Timah. Mental health services are administered from the University Health Centre (UHC) at 20 Lower Kent Ridge Road. Tucked away on the second floor of the building after walking up a discreet stairwell is a lounge and a corridor of many closed-doored counselling rooms, the compounds of NUS's UCS. At the ground floor of the UHC is the clinic, consisting of over 10 doctors, all of which are employees of NUS, serving the large student population. At the basement is the Clinical and Health Psychology Centre (CHPC) run by the NUS Department of Psychology[^^I11] that provides professional psychology help and assessment before allowing psychiatric intervention. There are approximately 2 or 3 psychiatrists at any one point of which one is Dr Clarice Hong Pei Hsia as of academic year 2018/19 term 1, according to ground research. Yale-NUS has its own Wellness Centre that is in some way affiliated to UCS. Also at the basement of UHC is the aptly named Wellness Office administering the system.
 
 {caption: "Figure 7: UCS's governance structure", alt: "UCS's governance structure", align: middle, width: 100%}
 ![Figure 7: UCS's governance structure](images/7.UCS.jpg)
@@ -331,7 +329,7 @@ Once again, it is a happenstance effect that brought the drug into the field, th
 
 ## Anti-depressants
 
-Again, it was the entrepreneurial chemists that chanced upon the anti-depressant class of drug, which grew out of a group of tuberculosis drugs called isoniazids, first discovered by chemists at Hoffmann-La Roche. It was after Fox and Gibas (1953) synthesized iproniazid in the search for new forms of anti-tuberculosis agents that studies began to show that the drug induced an arousal and almost euphoric state in patients[^^I20]. Thus, one of the first few anti-depressants was born, only predated by the use of amphetamines, under the name Benzedrine in 1935 by the Smith, Kline and French company[^^I21], that would come to be used in World War II as an energy booster. Amphetamines would spark a global addiction crisis in crystal meth, become a controlled substance, and then undergo chemical evolution into Ritalin and Adderall, making a resurgence in the 1960s with the work of American child psychiatrist Charles Bradley on ADHD & Benzedrine to target our children[^I22].
+Again, it was the entrepreneurial chemists that chanced upon the anti-depressant class of drug, which grew out of a group of tuberculosis drugs called isoniazids, first discovered by chemists at Hoffmann-La Roche. It was after Fox and Gibas (1953) synthesized iproniazid in the search for new forms of anti-tuberculosis agents that studies began to show that the drug induced an arousal and almost euphoric state in patients[^^I20]. Thus, one of the first few anti-depressants was born, only predated by the use of amphetamines, under the name Benzedrine in 1935 by the Smith, Kline and French company[^^I21], that would come to be used in World War II as an energy booster. Amphetamines would spark a global addiction crisis in crystal meth, become a controlled substance, and then undergo chemical evolution into Ritalin and Adderall, making a resurgence in the 1960s with the work of American child psychiatrist Charles Bradley on ADHD & Benzedrine to target our children[^^I22].
 
 ### Monoamine Oxidase Inhibitors (MAOIs) and the Monoamine Hypothesis
 
@@ -373,12 +371,6 @@ First synthesised in 1864 by Adolf von Baeyer (founder of Bayer), barbiturates' 
 The first benzodiazepine, chlorodiazepoxide (Librium) was discovered in 1955, as the psychopharmacological revolution in psychiatry was in ascent, by Hoffmann-La Roche chemist Leo Sternbach in a further study of work on dyes he had synthesised in the 1930s, inspired by the story of chlorpromazine. He found a compound he had modified to have similar properties to anxiolytic (anti-anxiety) meprobamate[^^I29], which would be launched as Librium in 1960. He would then go on to modify chlorodiazepoxide to create diazepam (Valium, discovered in 1961, commercialised in 1963) that would go on to sell 2.3 billion tablets and earn the nickname "Mother's Little Helper". They were marketed as suicide proof, and indeed that angle was demonstrated in rather public ways. Ronald Reagan's national security advisor, Robert McFarlane survived his suicide attempt with Valium in the middle of the Iran-Control scandal, much embarrassed when he regained consciousness[^^I30].
 
 Benzodiazepines became the next money-train in the pharmaceutical industry. Competitors of Roche quickly jumped in with oxazepam (Serax, trialed in 1961, commercialised in 1965) Wyeth developed in 1961, then alprazolam (Xanax, patent filed in 1969, FDA approved in 1981) by Upjohn (now part of Pfizer) and trizolam (Halcion, patented in 1970, FDA approved in 1982). Many would follow, and Xanax would gain fame as a common street drug for the Xan Bars concoction frequently abused by Hollywood musicians for the sense of calm and euphoria that it could induce[^^I31].
-
-
-![Hello World in Ruby](http://markua.com/hello.rb)
-
-
-
 
 [^^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
 
