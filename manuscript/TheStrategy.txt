@@ -61,7 +61,7 @@ A business depends on key marketing messages that it distributes to its target a
 
 What are some of the key messages that Big Pharma and the mental health professions want the populace to believe?
 
-{title: "Figure 2: Wellness Porn", align: "left", width: 100%, optional: attribute_list}
+{title: "Figure 2: Wellness Porn", align: "left", width: 100%}
 | Message                     | Official reason        | Likely agenda                                                        |
 |=============================|:======================:|:=====================================================================:|
 | | |
@@ -374,7 +374,35 @@ First synthesised in 1864 by Adolf von Baeyer (founder of Bayer), barbiturates' 
 
 The first benzodiazepine, chlorodiazepoxide (Librium) was discovered in 1955, as the psychopharmacological revolution in psychiatry was in ascent, by Hoffmann-La Roche chemist Leo Sternbach in a further study of work on dyes he had synthesised in the 1930s, inspired by the story of chlorpromazine. He found a compound he had modified to have similar properties to anxiolytic (anti-anxiety) meprobamate[^^I29], which would be launched as Librium in 1960. He would then go on to modify chlorodiazepoxide to create diazepam (Valium, discovered in 1961, commercialised in 1963) that would go on to sell 2.3 billion tablets and earn the nickname "Mother's Little Helper". They were marketed as suicide proof, and indeed that angle was demonstrated in rather public ways. Ronald Reagan's national security advisor, Robert McFarlane survived his suicide attempt with Valium in the middle of the Iran-Control scandal, much embarrassed when he regained consciousness[^^I30].
 
-Benzodiazepines became the next money-train in the pharmaceutical industry. Competitors of Roche quickly jumped in with oxazepam (Serax, trialed in 1961, commercialised in 1965) Wyeth developed in 1961, then alprazolam (Xanax, patent filed in 1969, FDA approved in 1981) by Upjohn (now part of Pfizer) and trizolam (Halcion, patented in 1970, FDA approved in 1982). Many would follow, and Xanax would gain fame as a common street drug for the Xan Bars concoction frequently abused by Hollywood musicians for the sense of calm and euphoria that it could induce[^^I31].
+Benzodiazepines became the next money-train in the pharmaceutical industry. Competitors of Roche quickly jumped in with oxazepam (Serax, trialed in 1961, commercialised in 1965) Wyeth developed in 1961, then alprazolam (Xanax, patent filed in 1969, FDA approved in 1981) by Upjohn (now part of Pfizer) and trizolam (Halcion, patented in 1970, FDA approved in 1982). Many would follow, and Xanax would be the market leader gain fame as a common street drug for the Xan Bars concoction frequently abused by Hollywood musicians for the sense of calm and euphoria that it could induce[^^I31].
+
+{title: "Figure 14: Year of introduction & effects of common benzodiazepines", align: "left", width: 100%}
+| Generic              | Main Brand(s) | Manufacturer | FDA approved  | Market aim |
+|======================|:=============:|:============:|:=============:|:==========:|
+| Chloradiazepoxide    | Librium       | Roche        | 1960          | anxiolytic |
+| Diazepam             | Valium        | Roche        | 1960          | anxiolytic
+| Nitrazepam           | Mogadon       | Roche        | 1965          | anxiolytic
+| Oxazepam             | Serenid       | Wyeth        | 1966          | anxiolytic, anti-convulsant
+| Medazepam            | Nobrium       | Roche        | 1971*         | anxiolytic, anti-convulsant
+| Lorazepam            | Ativan        | Wyeth        | 1972**        | anxiolytic
+| Clorazepate          | Tranxene      | Boehringer   | 1967          | anxiolytic
+| Flurazepam           | Dalmane       | Roche        | 1968          | hypnotic
+| Temazepam            | Euhypnos      | FCE          | 1977          | hypnotic
+|                      | Normison      | Wyeth        | 1977          | hypnotic
+| Triazolam            | Halcion       | Upjohn       | 1979          | anxiolytic
+| Clobazam             | Frisium       | Hoechst      | 1979          | anxiolytic
+| Ketazolam            | Anxon         | Beecham      | 1980          | 
+| Lormetazepam         | Noctamid      | Schering     | 1981          |
+| Flunitrazepam        | Rohypnol      | Sauter       | 1982          |
+| Bromazepam           | Lexotan       | Roche        | 1982          |
+| Pazepam              | Centrax       | Warner       | 1982          |
+| Alprazolam           | Xanax         | Upjohn       | 1983          |
+|======================|===============|==============|===============|
+
+*Note:** Adapted and modified from Lader (1991)[^^I32] and Ashton, C. H. (2013)[^^I33]. * Introduced to UK. ** Introduced to UK, unapproved by FDA.
+
+
+
 
 [^^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
 
@@ -415,3 +443,7 @@ Benzodiazepines became the next money-train in the pharmaceutical industry. Comp
 [^^I30]: Tone, A. (2005). Listening to the Past: History, Psychiatry, and Anxiety. *The Canadian Journal of Psychiatry*, 50(7), 373-380.
 
 [^^I31]: López-Munoza, F., Álamoa, C., & García-García, P. (2011). The discovery of chlordiazepoxide and the clinical introduction of benzodiazepines: Half a century of anxiolytic drugs. *Journal of Anxiety Disorders*, 25(4), 554-562. DOI: 10.1016/j.janxdis.2011.01.002.
+
+[^^I32]: Lader, M. (1991). History of Benzodiazepine Dependence. *Journal of Substance Abuse Treatment*, 8(1), 53-59.
+
+[^^I33]: Ashton, C. H. (2013). BENZODIAZEPINES: HOW THEY WORK AND HOW TO WITHDRAW (aka The Ashton Manual). Retrieved March 4, 2019 from https://www.benzo.org.uk/.
