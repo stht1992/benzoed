@@ -2,6 +2,3 @@ Foreword.txt
 TheStrategy.txt
 Academic.txt
 ExaminationDocs.txt
-chapter1.txt
-chapter2.txt
-chapter3.txt
