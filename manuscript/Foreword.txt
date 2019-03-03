@@ -1,10 +1,10 @@
-{
-title: Drugged & Dragged by the Wellness Centre
-authors: Benjamin Zodiac
-number-figures: true
-restart-endnote-numbering: true
-restart-footnote-numbering: true
-}
+%%{
+%%title: Drugged & Dragged by the Wellness Centre
+%%authors: Benjamin Zodiac
+%%number-figures: true
+%%restart-endnote-numbering: true
+%%restart-footnote-numbering: true
+%%}
 
 {frontmatter}
 
