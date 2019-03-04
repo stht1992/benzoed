@@ -374,32 +374,41 @@ First synthesised in 1864 by Adolf von Baeyer (founder of Bayer), barbiturates' 
 
 The first benzodiazepine, chlorodiazepoxide (Librium) was discovered in 1955, as the psychopharmacological revolution in psychiatry was in ascent, by Hoffmann-La Roche chemist Leo Sternbach in a further study of work on dyes he had synthesised in the 1930s, inspired by the story of chlorpromazine. He found a compound he had modified to have similar properties to anxiolytic (anti-anxiety) meprobamate[^^I29], which would be launched as Librium in 1960. He would then go on to modify chlorodiazepoxide to create diazepam (Valium, discovered in 1961, commercialised in 1963) that would go on to sell 2.3 billion tablets and earn the nickname "Mother's Little Helper". They were marketed as suicide proof, and indeed that angle was demonstrated in rather public ways. Ronald Reagan's national security advisor, Robert McFarlane survived his suicide attempt with Valium in the middle of the Iran-Control scandal, much embarrassed when he regained consciousness[^^I30].
 
-Benzodiazepines became the next money-train in the pharmaceutical industry. Competitors of Roche quickly jumped in with oxazepam (Serax, trialed in 1961, commercialised in 1965) Wyeth developed in 1961, then alprazolam (Xanax, patent filed in 1969, FDA approved in 1981) by Upjohn (now part of Pfizer) and trizolam (Halcion, patented in 1970, FDA approved in 1982). Many would follow, and Xanax would be the market leader gain fame as a common street drug for the Xan Bars concoction frequently abused by Hollywood musicians for the sense of calm and euphoria that it could induce[^^I31].
+Benzodiazepines became the next money-train in the pharmaceutical industry. Competitors of Roche quickly jumped in with oxazepam (Serax, trialed in 1961, commercialised in 1965) Wyeth developed in 1961, alprazolam (Xanax, patent filed in 1969, FDA approved in 1981) by Upjohn (now part of Pfizer), lorazepam (Ativan, patented 1963, FDA approved 1963) and trizolam (Halcion, patented in 1970, FDA approved in 1982). Many would follow, and Xanax would be the market leader to gain fame as a common street drug for the Xan Bars concoction frequently abused by Hollywood musicians for the sense of calm and euphoria that it could induce[^^I31].
 
-{title: "Figure 14: Year of introduction & effects of common benzodiazepines", align: "left", width: 100%}
-| Generic              | Main Brand(s) | Manufacturer | FDA approved  | Market aim |
-|======================|:=============:|:============:|:=============:|:==========:|
-| Chloradiazepoxide    | Librium       | Roche        | 1960          | anxiolytic |
-| Diazepam             | Valium        | Roche        | 1960          | anxiolytic
-| Nitrazepam           | Mogadon       | Roche        | 1965          | anxiolytic
-| Oxazepam             | Serenid       | Wyeth        | 1966          | anxiolytic, anti-convulsant
-| Medazepam            | Nobrium       | Roche        | 1971*         | anxiolytic, anti-convulsant
-| Lorazepam            | Ativan        | Wyeth        | 1972**        | anxiolytic
-| Clorazepate          | Tranxene      | Boehringer   | 1967          | anxiolytic
-| Flurazepam           | Dalmane       | Roche        | 1968          | hypnotic
-| Temazepam            | Euhypnos      | FCE          | 1977          | hypnotic
-|                      | Normison      | Wyeth        | 1977          | hypnotic
-| Triazolam            | Halcion       | Upjohn       | 1979          | anxiolytic
-| Clobazam             | Frisium       | Hoechst      | 1979          | anxiolytic
-| Ketazolam            | Anxon         | Beecham      | 1980          | 
-| Lormetazepam         | Noctamid      | Schering     | 1981          |
-| Flunitrazepam        | Rohypnol      | Sauter       | 1982          |
-| Bromazepam           | Lexotan       | Roche        | 1982          |
-| Pazepam              | Centrax       | Warner       | 1982          |
-| Alprazolam           | Xanax         | Upjohn       | 1983          |
-|======================|===============|==============|===============|
+{title: "Figure 14: Year of introduction & market aim of various benzodiazepines", align: "left", width: 100%}
+| Generic              | Main Brand(s) | Manufacturer | Patented* | 1st FDA approval  | Market aim   |
+|======================|:=============:|:============:|:=========:|:=================:|:============:|
+| Chloradiazepoxide    | Librium       | Roche        | 1958      | 1960              | anxiolytic   |
+| Diazepam             | Valium        | Roche        | 1963      | 1963              | anxiolytic   |
+| Nitrazepam           | Mogadon       | Roche        | 1961      | 1965              | anxiolytic   |
+| Oxazepam             | Serax         | Wyeth        | 1962      | 1966              | anxiolyticn  | 
+| Medazepam            | Rudotel       | Roche        | 1964      | NA                | anxiolytic   |
+| Lorazepam            | Ativan        | Wyeth        | 1963      | 1977              | anxiolytic   |
+| Clorazepate          | Tranxene      | Boehringer   | 1965      | 1972              | anxiolytic   |
+| Flurazepam           | Dalmane       | Roche        | 1968      | 1970              | hypnotic     |
+| Temazepam            | Euhypnos      | Wyeth        | 1962      | 1969              | hypnotic     |
+| Triazolam            | Halcion       | Upjohn       | 1970      | 1982              | hypnotic     |
+| Clobazam             | Frisium       | Boehringer   | 1968      | 2011              | anxiolytic, anti-convulsant |
+| Ketazolam            | Anxon         | Upjohn       | (1971)    | NA                | anxiolytic   |
+| Lormetazepam         | Noctamid      | Schering     | (1968)    | NA                | hypnotic     |
+| Flunitrazepam        | Rohypnol      | Roche        | 1963      | NA                | hypnotic     |
+| Bromazepam           | Lexotan       | Roche        | 1963      | NA                | anxiolytic   |
+| Prazepam             | Centrax       | Warner       | (1969)    | NA                | anxiolytic   |
+| Alprazolam           | Xanax         | Upjohn       | 1963      | 1981              | anxiolytic   |
+|======================|===============|==============|===========|===================|==============|
 
-*Note:** Adapted and modified from Lader (1991)[^^I32] and Ashton, C. H. (2013)[^^I33]. * Introduced to UK. ** Introduced to UK, unapproved by FDA.
+**Note:** Adapted and modified from Lader (1991)[^^I32] and Ashton, C. H. (2013)[^^I33]. * Replaced with first recorded synthesis in brackets () when appropriate to indicate approximate earliest introduction.
+
+It bacame apparent quite early that benzodiazepines were not quite as safe as was promised with two studies in the 1960 by Hollister et al, the first with Librium and the second with Valium. Both studies found cases of severe withdrawal reactions after administration for a period of months, with some of the subject event exhibiting convulsive events on abrupt cessation[^^I34]^,^[^^I35]. Dr Malcolm Lader of the Institute of Psychiatry, now Emeritus Professor at King's College, was one of the major critics of the use of benzodiazepines, publishing over 100 papers on the substance. And at that time, his views were seen as maverick, given the widespread perception of benzodiazepines as safe alternative to barbiturates, under the auspices the medical organisations such as the British Medical Assocition that conducted a campaign against bartiturates in the 1970s, with the implicit stamp of approval for benzodiazepines. There was a notable lack of reports on the development of dependence in literature and Marks (1978), in a book would conclude that "dependence on benzodiazepines occurs very rarely under conditions of clinical use and then usually only after prolonged administration at above average dosage"[^^I36]. He would partially recant this statement in 1983. It is estimated by Lader that perhaps 500,000 people in the UK had been led by their doctors into drug dependence and twice that number in the USA. He noted that many of these patients had become aggrieved, 2000 people had commenced legal procedings in the largest civil action ever[^^I37]. This lawsuit would grow to 14,000 patients but stalled when the plaintiffs ran out of money, and benzodiazepines would continue to fester to the present date[^^I38].
+
+
+
+
+
+
+
+
 
 
 
@@ -447,3 +456,14 @@ Benzodiazepines became the next money-train in the pharmaceutical industry. Comp
 [^^I32]: Lader, M. (1991). History of Benzodiazepine Dependence. *Journal of Substance Abuse Treatment*, 8(1), 53-59.
 
 [^^I33]: Ashton, C. H. (2013). BENZODIAZEPINES: HOW THEY WORK AND HOW TO WITHDRAW (aka The Ashton Manual). Retrieved March 4, 2019 from https://www.benzo.org.uk/.
+
+[^^I34]: Hollister, L. E., Motzenbecker, F. P., & Degan, R. O. (1961). Withdrawal reactions from chlordiazepoxide (“Librium”). *Psychopharmacologia*, 2(63), 63-68. DOI: 10.1007/BF00429621.
+
+[^^I35]: Hollister, L.E., Bennett, J.L., Kimbell, I., Savage, C., & Overall, J.E. (1963). Diazepam in newly admitted schizophrenics. *Diseases
+of the Nervous System*, 24, 746-750.
+
+[^^I36]: Marks, J. (1978). The benzodiazepines: Use, overuse, misuse, abuse. Lancaster, U.K.: MTP.
+
+[^^I37]: Lader, M. (1991), op. cit.
+
+[^^I38]: Benzodiazepine Information Coalition. (2017). *A Brief History of Benzodiazepines*. Retrieved March 4, 2019 <https://www.benzoinfo.com/2017/12/13/a-brief-history-of-benzodiazepines/>.
