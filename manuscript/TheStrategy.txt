@@ -374,15 +374,16 @@ First synthesised in 1864 by Adolf von Baeyer (founder of Bayer), barbiturates' 
 
 The first benzodiazepine, chlorodiazepoxide (Librium) was discovered in 1955, as the psychopharmacological revolution in psychiatry was in ascent, by Hoffmann-La Roche chemist Leo Sternbach in a further study of work on dyes he had synthesised in the 1930s, inspired by the story of chlorpromazine. He found a compound he had modified to have similar properties to anxiolytic (anti-anxiety) meprobamate[^^I29], which would be launched as Librium in 1960. He would then go on to modify chlorodiazepoxide to create diazepam (Valium, discovered in 1961, commercialised in 1963) that would go on to sell 2.3 billion tablets and earn the nickname "Mother's Little Helper". They were marketed as suicide proof, and indeed that angle was demonstrated in rather public ways. Ronald Reagan's national security advisor, Robert McFarlane survived his suicide attempt with Valium in the middle of the Iran-Control scandal, much embarrassed when he regained consciousness[^^I30].
 
-Benzodiazepines became the next money-train in the pharmaceutical industry. Competitors of Roche quickly jumped in with oxazepam (Serax, trialed in 1961, commercialised in 1965) Wyeth developed in 1961, alprazolam (Xanax, patent filed in 1969, FDA approved in 1981) by Upjohn (now part of Pfizer), lorazepam (Ativan, patented 1963, FDA approved 1963) and trizolam (Halcion, patented in 1970, FDA approved in 1982). Many would follow, and Xanax would be the market leader to gain fame as a common street drug for the Xan Bars concoction frequently abused by Hollywood musicians for the sense of calm and euphoria that it could induce[^^I31].
+Benzodiazepines became the next money-train in the pharmaceutical industry. Competitors of Roche quickly jumped in with oxazepam (Serax, trialed in 1961, FDA approved in 1965) Wyeth developed in 1961, alprazolam (Xanax, patent filed in 1969, FDA approved in 1981) by Upjohn (now part of Pfizer), lorazepam (Ativan, patented 1963, FDA approved 1963) and trizolam (Halcion, patented in 1970, FDA approved in 1982). Many would follow, and Xanax would be the market leader to gain fame as a common street drug for the Xan Bars concoction frequently abused by Hollywood musicians for the sense of calm and euphoria that it could induce[^^I31].
 
-{title: "Figure 14: Year of introduction & market aim of various benzodiazepines", align: "left", width: 100%}
+{title: "Figure 14: Year of introduction & market aim of various benzodiazepines", align: "left", width: 100%, id: "fig14"}
 | Generic              | Main Brand(s) | Manufacturer | Patented* | 1st FDA approval  | Market aim   |
 |======================|:=============:|:============:|:=========:|:=================:|:============:|
 | Chloradiazepoxide    | Librium       | Roche        | 1958      | 1960              | anxiolytic   |
+| Clonazepam           | Klonopin      | Roche        | 1960      | 1975              | anxiolytic, anti-convulsant |
 | Diazepam             | Valium        | Roche        | 1963      | 1963              | anxiolytic   |
 | Nitrazepam           | Mogadon       | Roche        | 1961      | 1965              | anxiolytic   |
-| Oxazepam             | Serax         | Wyeth        | 1962      | 1966              | anxiolyticn  | 
+| Oxazepam             | Serax         | Wyeth        | 1962      | 1965              | anxiolytic   | 
 | Medazepam            | Rudotel       | Roche        | 1964      | NA                | anxiolytic   |
 | Lorazepam            | Ativan        | Wyeth        | 1963      | 1977              | anxiolytic   |
 | Clorazepate          | Tranxene      | Boehringer   | 1965      | 1972              | anxiolytic   |
@@ -393,22 +394,38 @@ Benzodiazepines became the next money-train in the pharmaceutical industry. Comp
 | Ketazolam            | Anxon         | Upjohn       | (1971)    | NA                | anxiolytic   |
 | Lormetazepam         | Noctamid      | Schering     | (1968)    | NA                | hypnotic     |
 | Flunitrazepam        | Rohypnol      | Roche        | 1963      | NA                | hypnotic     |
-| Bromazepam           | Lexotan       | Roche        | 1963      | NA                | anxiolytic   |
+| Bromazepam           | Lexotan       | Roche        | 1961      | NA                | anxiolytic   |
 | Prazepam             | Centrax       | Warner       | (1969)    | NA                | anxiolytic   |
-| Alprazolam           | Xanax         | Upjohn       | 1963      | 1981              | anxiolytic   |
+| Alprazolam           | Xanax         | Upjohn       | 1971      | 1981              | anxiolytic   |
 |======================|===============|==============|===========|===================|==============|
 
-**Note:** Adapted and modified from Lader (1991)[^^I32] and Ashton, C. H. (2013)[^^I33]. * Replaced with first recorded synthesis in brackets () when appropriate to indicate approximate earliest introduction.
+**Note:** Adapted and modified from Lader (1991)[^^I32] and Ashton, C. H. (2013)[^^I33]. Upjohn has since been acquired by Pfizer. * Replaced with first recorded synthesis in brackets () when appropriate to indicate approximate earliest introduction.
 
-It bacame apparent quite early that benzodiazepines were not quite as safe as was promised with two studies in the 1960 by Hollister et al, the first with Librium and the second with Valium. Both studies found cases of severe withdrawal reactions after administration for a period of months, with some of the subject event exhibiting convulsive events on abrupt cessation[^^I34]^,^[^^I35]. Dr Malcolm Lader of the Institute of Psychiatry, now Emeritus Professor at King's College, was one of the major critics of the use of benzodiazepines, publishing over 100 papers on the substance. And at that time, his views were seen as maverick, given the widespread perception of benzodiazepines as safe alternative to barbiturates, under the auspices the medical organisations such as the British Medical Assocition that conducted a campaign against bartiturates in the 1970s, with the implicit stamp of approval for benzodiazepines. There was a notable lack of reports on the development of dependence in literature and Marks (1978), in a book would conclude that "dependence on benzodiazepines occurs very rarely under conditions of clinical use and then usually only after prolonged administration at above average dosage"[^^I36]. He would partially recant this statement in 1983. It is estimated by Lader that perhaps 500,000 people in the UK had been led by their doctors into drug dependence and twice that number in the USA. He noted that many of these patients had become aggrieved, 2000 people had commenced legal procedings in the largest civil action ever[^^I37]. This lawsuit would grow to 14,000 patients but stalled when the plaintiffs ran out of money, and benzodiazepines would continue to fester to the present date[^^I38].
+It bacame apparent quite early that benzodiazepines were not quite as safe as was promised with two studies in the 1960 by Hollister et al, the first with Librium and the second with Valium. Both studies found cases of severe withdrawal reactions after administration for a period of months, with some of the subjects even exhibiting convulsive events on abrupt cessation[^^I34]^,^[^^I35]. Dr Malcolm Lader of the Institute of Psychiatry, now Emeritus Professor at King's College, was one of the major critics of the use of benzodiazepines, publishing over 100 papers on the substance. And at that time, his views were seen as maverick, given the widespread perception of benzodiazepines as safe alternative to barbiturates, under the auspices the medical organisations such as the British Medical Assocition that conducted a campaign against barbiturates in the 1970s, with the implicit stamp of approval for benzodiazepines. There was a notable lack of reports on the development of dependence in literature and Marks (1978), in a book, would conclude that "dependence on benzodiazepines occurs very rarely under conditions of clinical use and then usually only after prolonged administration at above average dosage"[^^I36]. He would partially recant this statement in 1983. It is estimated by Lader that perhaps 500,000 people in the UK had been led by their doctors into drug dependence and twice that number in the USA. He noted that many of these patients had become aggrieved, 2000 people had commenced legal procedings in the largest civil action ever[^^I37]. This lawsuit would grow to 14,000 patients but stalled when the plaintiffs ran out of money, and benzodiazepines would continue to fester to the present date[^^I38].
 
+But of course pharmaceutical companies paid no heed to these cautions where it was a major source of revenue, happy to capitalise on the effects of dependence. As Valium gained a bad reputation, Roche began to market clonazepam (Klonopin) in 1975 and Wyeth came in with lorazepam (Ativan) two years later, promising fewer risks and lower dosages. A game of cat and mouse spurred on the creation of new benzodiazepines; As regulators clamped down on one, they would move to the next. A whack-a-mole game that can be seen from the sheer number of substances perfoming exactly same medical function that can be seen in [Figure 14](#fig14). A new class of non-benzodiazepine hypnotic drugs emerged from the 1980s to early 1990s in the shadow of the benzodiazepines and were aptly named the Z-drags - Imidazopyridines (zolpidem), Cyclopyrrolones (zopiclone, eszopiclone) and Pyrazolopyrimidines (zaleplon).
 
+Ativan would feature in widely watched [*Ada v Ativan - the Cook Report (1988)*](https://www.youtube.com/watch?v=OfflAZbh-V4&t=622s)[^^I39] documentary that chronicled the struggles of Ada, a housewife, put on Ativan by her GP for a peace of mind, only to leave her struggling desperately with dependence and anxiety to the point of developing agoraphobia and tremors each time she tried to stop.
 
+In 1990, the APA finally launched a task force to investigate the alarming rate of benzodiazepine prescriptions, finding that up to 80% of those taking the drug will experience a withdrawal reaction upon cessation[^^I40]. Professor R. DeBuch, a research scientist at the Belgium Institute of Psychiatry, before Ativan was launched, noted that Ativan had been recorded to have had 4 of 30 on a controlled trial exhibiting withdrawal symptoms in the form of convulsive events from just 10 days from 10mg of lorazepam[^^I41]. Also unfortunate for sufferers, the withdrawal reaction can be prolonged, lasting months to years. Ashton also estimates that approximately 15% might move into a protracted withdrawal state that could go into years[^^I42].
 
+The common mantra is that benzodiazepines are still appropriate for short-term use of 2 to 4 weeks[^^I42], but Lader thinks otherwise, citing that it was "very difficult to even at the end of 4 weeks to have an uneventful withdrawal" and questions even this "short-term use" recommendation should even be maintained[^^43].
 
+The Z-drugs were not to escape scrutiny when in 2018, Roseanne Barr lost her role in her eponymously named sitcom *Roseanne* for racist tweeting. She [blamed it on Ambien](http://time.com/5295104/roseanne-barr-ambien/)[^^44].
 
+### Ministry Of Health (MOH) Clinic Practice Guidelines: Prescribing of Benzodiazepines
 
+The hullabaloo would not escape Singapore's MOH and in 2002 the *Guidelines  for  Prescribing  Benzodiazepines* was published and updated in 2008 with *MOH Clinical Practice Guidelines 2/2008: Prescribing of Benzodiazepines*, buttressed by similar guidelines for anxiety disorders[^^45]. Appended to the 2008 guidelines was also an administrative guidelines that mandate amongst various requirements[^^46] to:
 
+* **Reporting of suspected drug abusers:** Report suspected drug abusers under Regulation 19 of the Misuse of Drugs Regulations to the Central Narcotics Bureau
+
+* **Documentation and maintenance of patient medical records:** To document all the specified information about a patient and to reproduce such reports on request by MOH or the Singapore Medical Council (SMC)
+
+* **Exercise care in prescription:** To prescribe for intermittant use only if necessary, with warning of rebound anxiety and insomnia, at the lowest dose, to not prescript without clinical review, amongst other instructions.
+
+* **Specialist referrals:** To refer those that have been on benzodiazepines for more than 8 weeks, already on high dose or long-term and that are non-compliant to advice to reduce dosage to a specialist.
+
+Indeed the
 
 
 
@@ -467,3 +484,19 @@ of the Nervous System*, 24, 746-750.
 [^^I37]: Lader, M. (1991), op. cit.
 
 [^^I38]: Benzodiazepine Information Coalition. (2017). *A Brief History of Benzodiazepines*. Retrieved March 4, 2019 <https://www.benzoinfo.com/2017/12/13/a-brief-history-of-benzodiazepines/>.
+
+[^^I39]: Cook, J. (Director). (1988). Ada v Ativan. [Episode 10] In P. Salkeld (Producer), C. Entwistle (Producer), L. Mcdougall (Producer), M. Finlason (Producer), The Cook Report. United Kingdom: Central Independent Television. 
+
+[^^I40]: American Psychiatric Association (1990). *Task force report on benzodiazepine dependence, toxicity, and abuse*. Washington, DC: Author. DOI: 10.1176/ajp.148.2.151
+
+[^^I41]: Cook, J. (Director). (1988), op. cit.
+
+[^^I42]: Ashton, C. H. (2013), op. cit.
+
+[^^I43]: Cook, J. (Director). (1988), op. cit.
+
+[^^44]: Ducharme. J. (2018). Roseanne Barr Blamed Her Racist Tweet on 'Ambien Tweeting'. *Time*. Retrieve March 5, 2019 from <http://time.com/5295104/roseanne-barr-ambien/>.
+
+[^^45]: Singapore Ministry of Health (2008). Prescribing of Benzodiazepines (MOH Clinical Practice Guidelines 2/2008). Singapore: Singapore Ministry of Health. Retrieved from <https://elis.moh.gov.sg/elis/publishInfo.do?task=download&pkId=264>.
+
+[^^46]: Saktu, K. (2008). ADMINISTRATIVE GUIDELINES ON THE PRESCRIBING OF BENZODIAZEPINES AND OTHER HYPNOTICS. *MH 70:41/24*, 3. Retrieved from <https://elis.moh.gov.sg/elis/publishInfo.do?task=download&pkId=264>.
