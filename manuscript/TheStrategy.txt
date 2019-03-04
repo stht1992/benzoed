@@ -413,6 +413,12 @@ The common mantra is that benzodiazepines are still appropriate for short-term u
 
 The Z-drugs were not to escape scrutiny when in 2018, Roseanne Barr lost her role in her eponymously named sitcom *Roseanne* for racist tweeting. She [blamed it on Ambien](http://time.com/5295104/roseanne-barr-ambien/)[^^44].
 
+**The shadow of death.** Even with a purportedly safe substance incapable of respiratory depression, the spectre of suicide continues to haunt benzodiazepines. GABAgenic substances seem to have a special property to them that the anxiety of withdrawal gives it sufferers an unimaginable urge to kill themselves.
+
+{caption: "Figure 15: Celebrity Deaths and Benzos", alt: "Figure 15: Celebrity Deaths and Benzos", align: middle, width: 100%, id: "fig15"}
+![Figure 15: Celebrity Deaths and Benzos](images/15.CelebrityDeaths.jpg)
+**Note:** [Chris Cornell](https://www.mercurynews.com/2017/05/19/was-chris-cornell-taking-the-worlds-deadliest-prescription-medication/), [Michael Jackson](https://www.madinamerica.com/2016/08/what-killed-prince-and-michael-jackson-will-the-role-of-benzos-ever-be-revealed/) & [Jonghyun](https://www.allkpop.com/article/2017/12/dispatch-reveals-the-last-conversation-shinees-jonghyun-had-with-his-close-friend) died untimely deaths in connection to or after consuming benzodiazepines, yet the drug fails to be immediately implicated.
+
 ### Ministry Of Health (MOH) Clinic Practice Guidelines: Prescribing of Benzodiazepines
 
 The hullabaloo would not escape Singapore's MOH and in 2002 the *Guidelines  for  Prescribing  Benzodiazepines* was published and updated in 2008 with *MOH Clinical Practice Guidelines 2/2008: Prescribing of Benzodiazepines*, buttressed by similar guidelines for anxiety disorders[^^45]. Appended to the 2008 guidelines was also an administrative guidelines that mandate amongst various requirements[^^46] to:
@@ -425,9 +431,7 @@ The hullabaloo would not escape Singapore's MOH and in 2002 the *Guidelines  for
 
 * **Specialist referrals:** To refer those that have been on benzodiazepines for more than 8 weeks, already on high dose or long-term and that are non-compliant to advice to reduce dosage to a specialist.
 
-Indeed the
-
-
+Indeed, the MOH has exhibited a no tolerance approach to benzodiazepines misprescription. [Pause]
 
 
 [^^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
