@@ -329,7 +329,7 @@ Once again, it is a happenstance effect that brought the drug into the field, th
 
 ## Anti-depressants
 
-Again, it was the entrepreneurial chemists that chanced upon the anti-depressant class of drug, which grew out of a group of tuberculosis drugs called isoniazids, first discovered by chemists at Hoffmann-La Roche. It was after Fox and Gibas (1953) synthesized iproniazid in the search for new forms of anti-tuberculosis agents that studies began to show that the drug induced an arousal and almost euphoric state in patients[^^I20]. Thus, one of the first few anti-depressants was born, only predated by the use of amphetamines, under the name Benzedrine in 1935 by the Smith, Kline and French company[^^I21], that would come to be used in the unforgiving trenches of World War II as an energy booster marketed as Pervitin (methamphetamine). It was through the military, that psychiatry would earn respect as an instrumental factor in the war effort. Psychostimulants would give soldiers unhuman ability to stay awake and alert on the battlefield for days on end, and for Kamikaze soldiers to exhibit untold bravery and self-sacrifice as human guided missiles and torpedos. Both the Allied and Axis forces would use psychostimulants actively in battle[ Amphetamines would spark a global addiction crisis in crystal meth as soldiers emerged from the trenches into civilian life, psychologically and physically dependent on it. Methamphetamine would become a controlled substance, lurking in the underworld and earn its nicknames of crystal meth, ice , and then undergo chemical evolution into Ritalin and Adderall, making a resurgence in the 1960s with the work of American child psychiatrist Charles Bradley on ADHD & Benzedrine to target our children[^^I22].
+Again, it was the entrepreneurial chemists that chanced upon the anti-depressant class of drug, which grew out of a group of tuberculosis drugs called isoniazids, first discovered by chemists at Hoffmann-La Roche. It was after Fox and Gibas (1953) synthesized iproniazid in the search for new forms of anti-tuberculosis agents that studies began to show that the drug induced an arousal and almost euphoric state in patients[^^I20]. Thus, one of the first few anti-depressants was born, only predated by the use of amphetamines, under the name Benzedrine in 1935 by the Smith, Kline and French company[^^I21], that would come to be used in the unforgiving trenches of World War II as an energy booster marketed as Pervitin (methamphetamine). It was through the military, that psychiatry would earn respect as an instrumental factor in the war effort. Psychostimulants would give soldiers unhuman ability to stay awake and alert on the battlefield for days on end, and for Kamikaze soldiers to exhibit untold bravery and self-sacrifice as human guided missiles and torpedos. Both the Allied and Axis forces would use psychostimulants actively in battle[^^I21b]. Amphetamines would spark a global addiction crisis in crystal meth as soldiers emerged from the trenches into civilian life, psychologically and physically dependent on it. Methamphetamine would become a controlled substance, lurking in the underworld and earn its nicknames that include Crystal Meth, Ice, Tina, Speed, etc. Amphetamines would later undergo a chemical evolution into Ritalin and Adderall, making a resurgence in the 1960s with the work of American child psychiatrist Charles Bradley on ADHD & Benzedrine to target our children[^^I22].
 
 ### Monoamine Oxidase Inhibitors (MAOIs) and the Monoamine Hypothesis
 
@@ -413,7 +413,7 @@ The common mantra is that benzodiazepines are still appropriate for short-term u
 
 The Z-drugs were not to escape scrutiny when in 2018, Roseanne Barr lost her role in her eponymously named sitcom *Roseanne* for racist tweeting. She [blamed it on Ambien](http://time.com/5295104/roseanne-barr-ambien/)[^^44].
 
-**The shadow of death.** Even with a purportedly safe substance incapable of respiratory depression, the spectre of suicide continues to haunt benzodiazepines. GABAgenic substances seem to have a special property to them that the anxiety of withdrawal gives it sufferers an unimaginable urge to kill themselves.
+**The shadow of death.** Even with a purportedly safe substance incapable of respiratory depression, the spectre of suicide continues to haunt benzodiazepines. GABAgenic substances seem to have a special property to them that the anxiety of withdrawal gives it sufferers an unimaginable need to kill themselves.
 
 {caption: "Figure 15: Celebrity Deaths and Benzos", alt: "Figure 15: Celebrity Deaths and Benzos", align: middle, width: 100%, id: "fig15"}
 ![Figure 15: Celebrity Deaths and Benzos](images/15.CelebrityDeaths.jpg)
@@ -431,7 +431,9 @@ The hullabaloo would not escape Singapore's MOH and in 2002 the *Guidelines  for
 
 * **Refer to specialist if needed:** To refer those that have been on benzodiazepines for more than 8 weeks, already on high dose or long-term and that are non-compliant to advice to reduce dosage to a specialist.
 
-Indeed, the MOH has exhibited a no tolerance approach to benzodiazepines misprescription.
+Indeed, the MOH has exhibited a no tolerance approach to benzodiazepines misprescription, where benzodiazepines misprescription comprise the single largest source of censures.
+
+
 
 
 [^^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
@@ -457,6 +459,8 @@ Indeed, the MOH has exhibited a no tolerance approach to benzodiazepines mispres
 [^^I20]: Hillhouse, T. M., & Porter, J. H. (2015). A brief history of the development of antidepressant drugs: From monoamines to glutamate. *Experimental and Clinical Psychopharmacology*, 23(1), 1-21. DOI: 10.1037/a0038550.
 
 [^^I21]: Heal, D. J., Smith, S. L., Gosden, J., & Nutt, D. J. (2013). Fast Times: The Life, Death, and Rebirth of Amphetamine. *Journal of Psychopharmacology*, 27(6), 479-496. DOI: 10.1177/0269881113482532.
+
+[^^I21b]: Morgans, J. (2015). A Brief History of Meth: How an experimental asthma remedy became one of the world's most feared drugs. *Vice*. Retrieved March 5, 2019 from <https://www.vice.com/en_us/article/4wb78m/from-kamikaze-pilots-to-footy-players-heres-a-short-history-of-ice>.
 
 [^^I22]: Hicks, J. (2012). Fast Times: The Life, Death, and Rebirth of Amphetamine. *Distillations: Science + Culture + History*. Retrieved from <https://www.sciencehistory.org/distillations/magazine/fast-times-the-life-death-and-rebirth-of-amphetamine>.
 
