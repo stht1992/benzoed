@@ -431,10 +431,14 @@ The hullabaloo would not escape Singapore's MOH and in 2002 the *Guidelines  for
 
 * **Refer to specialist if needed:** To refer those that have been on benzodiazepines for more than 8 weeks, already on high dose or long-term and that are non-compliant to advice to reduce dosage to a specialist.
 
-Indeed, the MOH has exhibited a no tolerance approach to benzodiazepines misprescription, where benzodiazepines misprescription comprise the single largest source of censures.
+Indeed, the MOH has exhibited a no tolerance approach to benzodiazepine misprescription, which comprises a third of SMC censures, the single largest source ([Figure 16](#fig16)) from 2018. A cause for comfort is that the number has been steadily decreasing since it reached its peak in 2011, presuming that the censuring process has been functioning efficiently as it should.
 
+{caption: "Figure 16: Doctor Censures Related to Benzodiazepines", alt: "Figure 16: Doctor Censures Related to Benzodiazepines", align: middle, width: 100%, id: "fig16"}
+![Figure 16: Doctor Censures Related to Benzodiazepines](images/16.BenzoCensures.jpg)
 
+# Reel: Making a killing...
 
+[^^47]
 
 [^^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
 
@@ -508,3 +512,5 @@ of the Nervous System*, 24, 746-750.
 [^^45]: Singapore Ministry of Health (2008). Prescribing of Benzodiazepines (MOH Clinical Practice Guidelines 2/2008). Singapore: Singapore Ministry of Health. Retrieved from <https://elis.moh.gov.sg/elis/publishInfo.do?task=download&pkId=264>.
 
 [^^46]: Saktu, K. (2008). ADMINISTRATIVE GUIDELINES ON THE PRESCRIBING OF BENZODIAZEPINES AND OTHER HYPNOTICS. *MH 70:41/24*, 3. Retrieved from <https://elis.moh.gov.sg/elis/publishInfo.do?task=download&pkId=264>.
+
+[^^47]: Roberts, A. (1981/timeline date). *Mental Health History Timeline*. Retrieved March 6, 2019 from <http://studymore.org.uk/mhhtim.htm>.
