@@ -333,7 +333,7 @@ Again, it was the entrepreneurial chemists that chanced upon the anti-depressant
 
 ### Monoamine Oxidase Inhibitors (MAOIs) and the Monoamine Hypothesis
 
-It was around the 1960s that work surround reserpine, a treatment for hypertensive vascular diseases in the 1950s that had an unusual side effect of causing depression in patients and also found to inhibit the vesicular monoamine (i.e. serotonin and catecholamines) transporter, that the idea that patients with depression had depleted levels of serotonin, norepinphrine and dopamine was formulated. However, recent research suggests that this hypothesis needs to be revised[^^I23].
+It was around the 1960s that work surrounding reserpine, a substanced used in the treatment for hypertensive vascular diseases in the 1950s that had an unusual side effect of causing depression in patients and also found to inhibit the vesicular monoamine (i.e. serotonin and catecholamines) transporter, that the idea that patients with depression had depleted levels of serotonin, norepinphrine and dopamine was formulated. However, recent research suggests that this hypothesis needs to be revised[^^I23].
 
 It is with this hypothesis that iproniazid (Marsilid) would become the first MOAI anti-depressant, a class which worked by causing more of the monoamine neurotransmitter concentrations to increase in the presynaptic terminal.
 
@@ -409,9 +409,9 @@ Ativan would feature in widely watched [*Ada v Ativan - the Cook Report (1988)*]
 
 In 1990, the APA finally launched a task force to investigate the alarming rate of benzodiazepine prescriptions, finding that up to 80% of those taking the drug will experience a withdrawal reaction upon cessation[^^I40]. Professor R. DeBuch, a research scientist at the Belgium Institute of Psychiatry, before Ativan was launched, noted that Ativan had been recorded to have had 4 out of 30 in a controlled trial exhibiting withdrawal symptoms in the form of convulsive events from just 10 days from 10mg of lorazepam[^^I41] - a rather high dose, but still reflect of the speed at which dependence can set in. Also unfortunately for sufferers, the withdrawal reaction can be prolonged, lasting months to years. Ashton also estimates that approximately 15% might move into a protracted withdrawal state that could go into years[^^I42].
 
-The common mantra is that benzodiazepines are still appropriate for short-term use of 2 to 4 weeks[^^I42], but Lader thinks otherwise, citing that it was "very difficult to even at the end of 4 weeks to have an uneventful withdrawal" and questions even this "short-term use" recommendation should even be maintained[^^43].
+The common mantra is that benzodiazepines are still appropriate for short-term use of 2 to 4 weeks[^^I42], but Lader thinks otherwise, citing that it was "very difficult to even at the end of 4 weeks to have an uneventful withdrawal" and questions even this "short-term use" recommendation should even be maintained[^^I43].
 
-The Z-drugs were not to escape scrutiny when in 2018, Roseanne Barr lost her role in her eponymously named sitcom *Roseanne* for racist tweeting. She [blamed it on Ambien](http://time.com/5295104/roseanne-barr-ambien/)[^^44].
+The Z-drugs were not to escape scrutiny when in 2018, Roseanne Barr lost her role in her eponymously named sitcom *Roseanne* for racist tweeting. She [blamed it on Ambien](http://time.com/5295104/roseanne-barr-ambien/)[^^I44].
 
 **The shadow of death.** Even with a purportedly safe substance incapable of respiratory depression, the spectre of suicide continues to haunt benzodiazepines. GABAgenic substances seem to have a special property to them that the anxiety of withdrawal gives it sufferers an unimaginable need to kill themselves.
 
@@ -421,7 +421,7 @@ The Z-drugs were not to escape scrutiny when in 2018, Roseanne Barr lost her rol
 
 ### Ministry Of Health (MOH) Clinic Practice Guidelines: Prescribing of Benzodiazepines
 
-The hullabaloo would not escape Singapore's MOH and in 2002 the *Guidelines  for  Prescribing  Benzodiazepines* was published and updated in 2008 with *MOH Clinical Practice Guidelines 2/2008: Prescribing of Benzodiazepines*, buttressed by similar guidelines for anxiety disorders[^^45]. Appended to the 2008 guidelines was also an administrative guideline that mandates amongst various requirements[^^46] to:
+The hullabaloo would not escape Singapore's MOH and in 2002 the *Guidelines  for  Prescribing  Benzodiazepines* was published and updated in 2008 with *MOH Clinical Practice Guidelines 2/2008: Prescribing of Benzodiazepines*, buttressed by similar guidelines for anxiety disorders[^^I45]. Appended to the 2008 guidelines was also an administrative guideline that mandates amongst various requirements[^^I46] to:
 
 * **Report of suspected drug abusers:** Report suspected drug abusers under Regulation 19 of the Misuse of Drugs Regulations to the Central Narcotics Bureau.
 
@@ -444,16 +444,29 @@ For all intents and purposes, insanity, illness and religion were magic. But to 
 
 Indeed, the state sanctioned treatment of the insane pre-dates psychiatry itself.
 
-## The history of the treatment of the mentally ill, the birth of mental health legislation and psychiatry
+## The brief history of the treatment of the mentally ill, the birth of mental health legislation and psychiatry into Singapore
 
+### Gila: a brief Singaporean background of psychiatric illness in Singapore
 
+Singapore's standard psychiatric system was inherited from the British colonial system. But before that, it was part of several Malaya-Indonesian empires such as the Majapahit Empire, Srivijaya Empire and the Johor Sultanate. The Malay word for mental illness is *sakit mental* or *gila* (crazy), for which both terms are treated with stigma and negativity. In the past, the primary point of contact is the *bomoh* (folk healer) for those that still practice animism or the Islamic religious leader. To this day, psychiatric care remains inaccessible to certain rural areas of Indonesia. In a documentary title *Bali's Shame* (2009)[^^I47], it was recorded that an elderly man in the rural areas of Bali had been locked into wooden stocks. This is the practice of *Pasung*, the Indonesian term of physical restraint and confinement of the insane, is a common practice from Bali to Samosir; A hidden, and perhaps shameful, side of Indonesian society where people suffering from primarily schizophrenia and other mental conditions involving the loss of volition are sometimes left in cages and fences to wallow in their own excrement[^^I48], largely due to the lack of a system of care for the mentally ill. Much credit to the work of Dr Suryani, many of these people have been able to regain volition, to regain function and participate in society. It is to be noted that concepts of depression and anxiety as illnesses are generally not associated with *pasung* in the documentary, potentially indicating medical overreach in modern psychiatry into what should be considered emotional or psychological states.
 
+{title: "Figure 14: Year of introduction & market aim of various benzodiazepines", align: "left", width: 100%, id: "fig14"}
+| Type of mental illness | Etiology | Symptoms | Usual first line treatment | Probable psychiatric diagnosis/condition |
+|=|:=:|:=:|:=:|:=:|:=:|
+| Dirasuk | Being possessed by other element suchas ghost/spirits/jinns | Being possessed with abnormal behaviour and the person has extra ability, strength and power, hallucination | Folk healer (bomoh) or religious-spiritual healer (using Quranic chant) | Hysteria/Dissociative disorder |
+| Buatan orang | Being charmed by other person | hallucination, delusion, abnormal behaviour | Folk healer (bomoh) or religious-spiritual healer (using Quranic chant) | Psychoses |
+| Gila meroyan | Possessed by mysterious/mystical elements during postpartum period | Hallucination, insomnia, stress, depression, emotional lability | Folk healer (bomoh) or religious- spiritual healer (using Quranic chant) | Postpartum psychosis or postpartum depression |
+| Gila talak | Divorce | Depressed, emotional disturbance | Folk healer (bomoh) or religious-spiritual healer (using Quranic chant) | Grief Mood disorder |
+| Gila ilmu | As a result of study where certain spiritual knowledge is gained | Talking to self, incoherent talk and socially isolated | Folk healer (bomoh) or religious-spiritual healer (using Quranic chant) | Psychoses |
+| Gila babi | Brain injury | Epileptic attack, episodic | Medical treatment | Epilepsy |
+**Note:** Adapted from Razak (2016)[^^I49].
 
+With the spread of colonialism came the current system that we see today that was germinated in the hallowed chambers of the priory of St Mary of Bethleham, later called Bethlehem Hospital or "Bedlam" around 1377, when King Edward III confiscated its lands situated in London to be used for lunatics[^^I50]. It was in the 1714 Vagrancy Act that the first English Statute was instituted to provide for the detention of lunatics, where prior to that it was common law that paved the way for any action. 
 
+It was on 8 August, 1746, King George II granted a Royal Charter to St Patrick's Hospital, Dublin, Ireland, founded from the legacy of Jonathan Swift. Swift had been found of unsound mind by a Commission of Lunacy in 1742, the first time that a panel of some sort resembling psychiatry was recorded to be sanctioned by the state[^^I51].
 
+It was during the reign of King George III that major reforms in mental health law occurred, owing to the king's own struggle with madness, suspected to be due to porphyria. It was his government that passed the 1774 Madhouse Act, which was based on the recommendation of the 1763 Select Committee of the House of Commons on Madhouses that said "the present state of the private madhouses in this kingdom, requires the interposition of the legislature." and the 1800 Criminal Lunatics Act. The last iteratons of the associated acts was the 1908 Lunacy Act and 1930 Mental Treatment Act, which were repealed by the 1959 Mental Health Act from which Singapore's legislation derives many features from[^^I52].
 
-
-[^^47]
 
 [^^I12]: Blashfield, R., Keeley, J., Flanagan, E., & Miles, S. (2014), op. cit.
 
@@ -522,10 +535,21 @@ of the Nervous System*, 24, 746-750.
 
 [^^I43]: Cook, J. (Director). (1988), op. cit.
 
-[^^44]: Ducharme. J. (2018). Roseanne Barr Blamed Her Racist Tweet on 'Ambien Tweeting'. *Time*. Retrieve March 5, 2019 from <http://time.com/5295104/roseanne-barr-ambien/>.
+[^^I44]: Ducharme. J. (2018). Roseanne Barr Blamed Her Racist Tweet on 'Ambien Tweeting'. *Time*. Retrieve March 5, 2019 from <http://time.com/5295104/roseanne-barr-ambien/>.
 
-[^^45]: Singapore Ministry of Health (2008). Prescribing of Benzodiazepines (MOH Clinical Practice Guidelines 2/2008). Singapore: Singapore Ministry of Health. Retrieved from <https://elis.moh.gov.sg/elis/publishInfo.do?task=download&pkId=264>.
+[^^I45]: Singapore Ministry of Health (2008). Prescribing of Benzodiazepines (MOH Clinical Practice Guidelines 2/2008). Singapore: Singapore Ministry of Health. Retrieved from <https://elis.moh.gov.sg/elis/publishInfo.do?task=download&pkId=264>.
 
-[^^46]: Saktu, K. (2008). ADMINISTRATIVE GUIDELINES ON THE PRESCRIBING OF BENZODIAZEPINES AND OTHER HYPNOTICS. *MH 70:41/24*, 3. Retrieved from <https://elis.moh.gov.sg/elis/publishInfo.do?task=download&pkId=264>.
+[^^I46]: Saktu, K. (2008). ADMINISTRATIVE GUIDELINES ON THE PRESCRIBING OF BENZODIAZEPINES AND OTHER HYPNOTICS. *MH 70:41/24*, 3. Retrieved from <https://elis.moh.gov.sg/elis/publishInfo.do?task=download&pkId=264>.
 
-[^^47]: Roberts, A. (1981/timeline date). *Mental Health History Timeline*. Retrieved March 6, 2019 from <http://studymore.org.uk/mhhtim.htm>.
+[^^I47]: O’Shea, D. (Director). (2009). Bali's Shame. Sydney, Australia: Special Broadcasting Service Australia. Retrieved from <https://www.youtube.com/watch?v=zdUrrlRgMFw>.
+
+[^^I48]: Minas, H., & Diatri, H. (2008). Pasung: Physical restraint and confinement of the mentally ill in the community. *International Journal of Mental Health Systems*, 2(8), 
+
+[^^I49]: Razak, A. A. (2017). Cultural Construction of Psychiatric Illness in Malaysia. Malaysian Journal of Medical Sciences 4(2). DOI: 10.21315/mjms2017.24.2.1.
+
+[^^I50]: Roberts, A. (1981/timeline date). *Mental Health History Timeline*. Retrieved March 6, 2019 from <http://studymore.org.uk/mhhtim.htm>.
+
+[^^I51]: ibid.
+
+[^^I52]: ibid.
+
